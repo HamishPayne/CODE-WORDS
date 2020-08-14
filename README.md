@@ -1,6 +1,8 @@
 # **PROCESSING SKETCHES**
 ### Typography
-- [NOW YOU SEE ME](https://hamishpayne.github.io/CODE-WORDS/word_changes_with_mouse_click/)
+- [Now you see me](https://hamishpayne.github.io/CODE-WORDS/word_changes_with_mouse_click/)
+- [Spinning word](https://hamishpayne.github.io/CODE-WORDS/word_spins_with_mouse/)
+
 ### Interactive
 ### Motion
 ### 3D
