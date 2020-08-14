@@ -14,5 +14,3 @@
 ### Kinetic Typography
 ### 3D
 ### New Terms
-
-*have fun*
