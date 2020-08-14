@@ -1,4 +1,7 @@
-# HELLO WORLD, WELCOME TO CODE-WORDS!
-## This is my Github
+# PROCESSING
+## Typogrpahy
+## Interactive
+## Motion
+## 3D
 
 *have fun*
