@@ -2,6 +2,9 @@
 
 ## Introductions
 
+<a href="url"><img src="https://github.com/HamishPayne/CODE-WORDS/blob/master/Classroom/Week-01/week_1_collab_screen.pngleft" height="48" width="48" ></a>
+
+
 ![](week_1_collab_screen.png)
 The first week concisted of Andy and Karen introducing the studio to us and running us through the different assignments.  
 It was really cool to see the multi-screen Collaberative Ultra setup they had made, I think in a way this was an introduction to the kind of work we would be doing in this studio.
