@@ -29,4 +29,4 @@
 ### Process
 
 # **References**
-- [New Terms](https://hamishpayne.github.io/CODE-WORDS/references/)
+- [New Terms](https://hamishpayne.github.io/CODE-WORDS/References/)
