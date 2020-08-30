@@ -5,4 +5,4 @@ Andy and Karen introduced us to the book House of Leaves which our first assignm
 
 ![](Quake-Friends) 
 
-### [Quake Frinds](https://www.youtube.com/watch?v=dmyO1A5J8SU)
+##### [Quake Friends](https://www.youtube.com/watch?v=dmyO1A5J8SU)
