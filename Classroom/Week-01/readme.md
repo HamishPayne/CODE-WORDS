@@ -1,6 +1,6 @@
 # Week 01
 
-[](week_1_collab_screen.png)
+[.](week_1_collab_screen.png)
 I knew we were in for something different for this studio the minute i logged into the first Collaberate Ultra meeting. 
 
 This week we were introduced to the outline of the studio and first assignment. 
