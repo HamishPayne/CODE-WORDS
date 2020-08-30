@@ -2,7 +2,7 @@
 
 ## Introductions
 
-<a href="url"><img src="https://github.com/HamishPayne/CODE-WORDS/blob/master/Classroom/Week-01/week_1_collab_screen.png" width="300" ></a>
+<a href="url"><img src="https://github.com/HamishPayne/CODE-WORDS/blob/master/Classroom/Week-01/week_1_collab_screen.png" width="1000" ></a>
 
 
 ![](week_1_collab_screen.png)
