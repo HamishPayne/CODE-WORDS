@@ -14,8 +14,12 @@ This was quite a strange experience for me, having a classroom run inside of a v
 
 ## Machinima
 
-This week we were introduced to the outline of the studio and first assignment. 
-Andy and Karen introduced us to the book House of Leaves which our first assignment would be based around. They also showed us some examples of machinima which is what we'd be making for the assignment.
+Next we were introduced to the first assignment, Re-readings. 
+Andy and Karen showed us the book [House of Leaves](https://en.wikipedia.org/wiki/House_of_Leaves) which the first assignment would be based around. 
+*talk about first impressions of HOL
+
+We also looked at a few different examples of people using video games as storytelling or performance tools.
+*talk about quake friends
 
 [The Pookah, 2008](https://www.youtube.com/watch?v=Tn9wVdaMOlw)                 |  [Quake Friends, 2002](https://www.youtube.com/watch?v=dmyO1A5J8SU)
 :-------------------------:|:-------------------------:
