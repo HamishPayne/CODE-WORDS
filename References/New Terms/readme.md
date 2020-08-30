@@ -16,9 +16,9 @@ A city in southern India, joint capital of the states of Andhra Pradesh and Tela
 Inactivity or dormancy
 ## Rhyzomatic
 Rhizome is a philosophical concept developed by Gilles Deleuze and Félix Guattari in their Capitalism and Schizophrenia (1972–1980) project. It is what Deleuze calls an "image of thought", based on the botanical rhizome, that apprehends multiplicities.
-## multiplicity
+## Multiplicity
 A large number or variety
-## mediacentric
+## Mediacentric
 Having a focus on the media
 ## Ad nauseam
 To a disgusting or ridiculous degree; to the point of nausea
