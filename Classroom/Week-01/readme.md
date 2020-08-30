@@ -10,6 +10,7 @@ It was really cool to see the multi-screen Collaberative Ultra setup they had ma
 
 ![](minecraft_week_one.png)
 After the introductions the whole class met inside of Minecraft in a server that was designed to replicate Melbourne's CBD.
+This was quite a strange experience for me, having a classroom run inside of a video game really got me thinking about the future of teaching and the formats and platforms for online education. The idea of humans living completely online scares me. I can't help but think of the Bruce Willis movie [Surrogates](https://en.wikipedia.org/wiki/Surrogates).
 
 ## Machinima
 
