@@ -22,3 +22,7 @@ Andy and Karen introduced us to the book House of Leaves which our first assignm
 
 ![](the_pookah.gif) 
 [The Pookah, 2008](https://www.youtube.com/watch?v=Tn9wVdaMOlw)
+
+The Pookah                 |  Quake Friends
+:-------------------------:|:-------------------------:
+![](the_pookah.gif)       |  ![](Quake-Friends) 
