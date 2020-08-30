@@ -1,1 +1,11 @@
-
+# Contemporaneously
+# Affordances
+# Bistre
+# Plateaus
+# Caustic
+# Hyderabad
+# Quiscence
+# Rhyzomatic
+# multiplicities
+# mediacentric
+# Nausium
