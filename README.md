@@ -1,1 +1,1 @@
-### Welcome to my code[plus]words Repository
+### Welcome to my code+words Repository
