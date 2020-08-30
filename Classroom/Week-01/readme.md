@@ -4,7 +4,7 @@
 The first week concisted of Andy and Karen introducing the studio to us and running us through the different assignments. It was really cool to see the multi-screen Collaberative Ultra setup they had made, I think in a way this was an introduction to the kind of work we would be doing in this studio.
 
 
-![](minecraft_week_one)
+![](minecraft_week_one.png)
 After the introductions the whole class met inside of Minecraft in a server that was designed to replicate Melbourne's CBD.
 
 This week we were introduced to the outline of the studio and first assignment. 
