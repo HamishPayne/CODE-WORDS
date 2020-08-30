@@ -3,11 +3,8 @@
 ## Introductions
 
 ![](week_1_collab_screen.png)
-The first week concisted of Andy and Karen introducing  
-the studio to us and running us through the different assignments.  
-It was really cool to see the multi-screen Collaberative Ultra setup  
-they had made, I think in a way this was an introduction to the kind  
-of work we would be doing in this studio.
+The first week concisted of Andy and Karen introducing the studio to us and running us through the different assignments.  
+It was really cool to see the multi-screen Collaberative Ultra setup they had made, I think in a way this was an introduction to the kind of work we would be doing in this studio.
 
 ## Minecraft Melbourne
 
