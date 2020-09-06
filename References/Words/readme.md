@@ -1,6 +1,6 @@
-## Contemporaneously
+### Contemporaneously
 Living or occurring during the same period of time; contemporary.
-## Affordance
+#### Affordance
 The quality or property of an object that defines its possible uses or makes clear how it can or should be used
 ## Bistre
 A brownish-yellow colour
@@ -22,3 +22,5 @@ A large number or variety
 Having a focus on the media
 ## Ad nauseam
 To a disgusting or ridiculous degree; to the point of nausea
+## Infinitesimal
+an indefinitely small quantity; a value approaching zero.
