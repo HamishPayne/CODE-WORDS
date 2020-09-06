@@ -1,6 +1,7 @@
 ### ’As if memory alone could lift the heart like the wind lifts a wing’
  ―Mark Z Danielewski, House of Leaves, page 155
 \
+
 \
 ### "Perhaps because their state of naiveté is so appealing to us, even seductive offering such a simple resolution to an enigma. Unfortunately, denial also mean ignoring the possibility of peril.
  ―Mark Z Danielewski, House of Leaves, page 39
