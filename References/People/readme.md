@@ -1,8 +1,8 @@
-Stuart Bailey
-Theo van Doesburg
-Paul Renner
-Herbert Bayer -Inventor of univers
-Fregio Meccano
+Stuart Bailey\
+Theo van Doesburg\
+Paul Renner\
+Herbert Bayer -Inventor of univers\
+Fregio Meccano\
 Jurriaan Schrofer
 Wim Crouwel
 Otl Archer
