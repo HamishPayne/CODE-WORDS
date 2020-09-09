@@ -42,4 +42,10 @@ Having a stronger understanding of the meaning of electronic literature made me 
 ## Processing
 This week I kept experimenting with Processing outside of class. I was able to figure out how to make a shape bounce off the walls of the canvas and also make object appear and dissapear through clicking the mouse.
 
-![](bouncing_left_to_right.gif)
+   a  |  b 
+:-------------------------:|:-------------------------:
+![](HP2.png)       |  ![](bouncing_left_to_right.gif)
+
+
+
+
