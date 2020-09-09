@@ -40,7 +40,7 @@ Having a stronger understanding of the meaning of electronic literature made me 
 | What if i'm the bad guy | “what if im the bad guy” is an experimental augmented reality based on the stories of three US soldiers in Afghanistan | https://webyarns.com/howto/howto.html |
 
 ## Processing
-This week I continued experimenting with Processing outside of class.
+This week I continued experimenting with Processing outside of class and focused on making things appear and dissapear with mouse click.
 
 a) This was fairly easy to figure out, I just had to figure out the distance the circle needed to travel so that it would change direction when the edge touched the outside of the 600x600 square. I also managed to create the effect of the circle dissapearing and the text appearing by placing rectangles filled with the background colour in front of them which appeared/dissapeared when the mouse was clicked.
 
