@@ -17,4 +17,7 @@ I've always enjoyed designing within a set of paramaters as it encourages me to 
 ## Modular Typefaces
 
 ![](modulartypefaceslides.gif)
+#Some quick research we did in class on modular typefaces and type designers
+
 We also looked at modular typefaces this week.
+
