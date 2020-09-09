@@ -16,5 +16,5 @@ I've always enjoyed designing within a set of paramaters as it encourages me to 
 
 ## Modular Typefaces
 
-![](ModularTypefacesSlides.gif)
+![](modulartypefaceslides.gif)
 We also looked at modular typefaces this week.
