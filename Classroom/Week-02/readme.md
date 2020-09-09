@@ -22,4 +22,4 @@ I think modular typefaces and coding are very similar in the way that they both 
 ![](modulartypefaceslides.gif)
 *Some quick group research we did in class on modular typefaces and their designers*
 
-The designer that I found during our research session was Benoit Bodhuin
+The designer that I found during our research session was [benoit bodhuin](https://www.instagram.com/benoitbodhuin/?hl=en), a type designer from France.
