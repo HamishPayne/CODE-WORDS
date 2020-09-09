@@ -23,3 +23,6 @@ I think modular typefaces and coding are very similar in the way that they both 
 *Some quick group research we did in class on modular typefaces and their designers*
 
 The designer that I found during our research session was [benoit bodhuin](https://www.instagram.com/benoitbodhuin/?hl=en), a type designer from France.
+He is a designer I have followed for a few years and have always enjoyred his typefaces and design work, I chose to show his work in this exersice as (i think) a few of his typefaces are modular.
+
+
