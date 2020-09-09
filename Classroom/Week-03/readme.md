@@ -44,7 +44,7 @@ This week I kept experimenting with Processing outside of class. I was able to f
 
    a  |  b 
 :-------------------------:|:-------------------------:
-![](HP2.png)       |  ![](bouncing_left_to_right.gif)
+![](now_you_see_me.gif)       |  ![](bouncing_left_to_right.gif)
 
 
 
