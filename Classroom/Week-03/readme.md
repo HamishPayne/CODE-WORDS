@@ -20,3 +20,9 @@ Having a stronger understanding of the meaning of electronic literature made me 
 | Floating Points - Anasickmodular video   | Visuals from Floating Points' live show | https://www.youtube.com/watch?v=WezWspsKgpM |
 | Daft Punk - Aerodynamic with Sonic Pi | Live performance of Aerodynamic by Daft Punk using Sonic Pi | https://www.youtube.com/watch?v=cydH_JAgSfg&feature=emb_logo|
 | YH Chang   | generate sound by writing text: instead of adding tracks, instruments, samples. | https://www.yhchang.com/ |
+| GENERATIVE TEXTS | | |
+| Library of Bable   | Contains everything that could ever be written in 3200 characters | https://libraryofbabel.info/ |
+| Grover   | State of the Art Neural Fake News Generator | https://grover.allenai.org |
+| Bullshit Generator   | Generates Bullshit based on your topic entry | https://suulnnka.github.io/BullshitGenerator/index.html |
+| Plot Generator   | Short story generator based upon your choice of style, character names, opening, adhectives | https://www.plot-generator.org.uk/story |
+| This Word Does Not Exist   | AI generate endless of plausible babble that inspired by dictionary words | https://www.thisworddoesnotexist.com/ |
