@@ -22,9 +22,9 @@ I think modular typefaces and coding are very similar in the way that they both 
 ![](modulartypefaceslides.gif)
 *Some quick group research we did in class on modular typefaces and their designers*
 
-The designer that I found during our research session was [benoit bodhuin](https://www.instagram.com/benoitbodhuin/?hl=en), a type designer from France.
-He is a designer I have followed for a few years and have always enjoyred his typefaces and design work, I chose to show his work in this exersice as (i think) a few of his typefaces are modular.
+The designer that I found during our research session was [Benoit Bodhuin](https://www.instagram.com/benoitbodhuin/?hl=en), a type designer from France.
+He is a designer I have followed for a few years and have always enjoyed his typefaces and design work, I chose to show his work in this exersice as some of his typefaces are modular (see below).
 
-   Pickle Typeface  |  Mineral Typeface
+   Pickle Typeface by Benoit Bodhuin  |  Mineral Typeface by Benoit Bodhuin
 :-------------------------:|:-------------------------:
 ![](Pickle_2.jpg)       |  ![](Mineral_Gif.gif) 
