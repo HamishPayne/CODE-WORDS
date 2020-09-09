@@ -36,5 +36,11 @@ Having a stronger understanding of the meaning of electronic literature made me 
 | ANIMATED WORDS | | |
 | Generative Design Project   | Changing simple variables in the code influenced the letterforms a different way each time the "sketch" was run. | https://www.behance.net/gallery/10436043/Generative-Design  |
 | The Dreamlife of Letters   | Based on an appropriated text, Dreamlife is a work in which individual letters of the alphabet seem to take on their own distinct and lively characters. | https://www.youtube.com/watch?v=ZSnq0nMAQQc |
+| Typograpphical Music Video   | Music video by Two Feet performing “I Feel Like I’m Drowning”.  | https://www.youtube.com/watch?time_continue=47&v=0HLIMp2rkFc&feature=emb_logo |
+| GENERATIVE NOVELS | | |
+| How To Rob a Bank | reinvention of Bonnie and Clyde for the digital age | https://webyarns.com/howto/howto.html |
+| Novelling | algorithmically orders and spatially arranges fragments of media (design elements, text, video and sound) in 6-minute cycles. | http://novelling.newbinarypress.com/start.html |
+| What if i'm the bad guy | “what if im the bad guy” is an experimental augmented reality based on the stories of three US soldiers in Afghanistan | https://webyarns.com/howto/howto.html |
+
 
 
