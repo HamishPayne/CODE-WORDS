@@ -4,7 +4,7 @@
 
 
 
-| Project  |
+| Project  | Project |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
