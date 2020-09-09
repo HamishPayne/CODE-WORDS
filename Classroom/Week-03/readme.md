@@ -2,12 +2,9 @@
 
 ## Electronic Literature
 At the start of this class we started looking at what electronic literature was and what it could be.
-We split into groups again and did a quick research session finding different examples of electronic literature that fit into a few different catagories. Some of these things I wouldn't have concidered electronic literature before, I think my general idea of what electronic literatyre was was a piece of long form text that was displayed in a digital format, but now i beleive that it is a much broader catagory and can really be anything that uses letters, words or text, written or spoken, in any type of digital format.
+We split into groups again and did a quick research session finding different examples of electronic literature that fit into a few different catagories (see table). Some of these things I wouldn't have concidered electronic literature before, I think my general idea of what electronic literatyre was was a piece of long form text that was displayed in a digital format, but now i beleive that it is a much broader catagory and can really be anything that uses letters, words or text, written or spoken, in any type of digital format.
 
 Having a stronger understanding of the meaning of electronic literature made me think a bit more about what I could do for my main project. I want to try and do something different to just presenting the text in written form on the screen, I need to research the possibilities of Processing to try and figure out some ways I can present my text in a unique way.
-
-
-
 
 |   |   |    |
 | ------------- | ------------- | ------------- | 
@@ -42,5 +39,6 @@ Having a stronger understanding of the meaning of electronic literature made me 
 | Novelling | algorithmically orders and spatially arranges fragments of media (design elements, text, video and sound) in 6-minute cycles. | http://novelling.newbinarypress.com/start.html |
 | What if i'm the bad guy | “what if im the bad guy” is an experimental augmented reality based on the stories of three US soldiers in Afghanistan | https://webyarns.com/howto/howto.html |
 
-
+## Processing
+This week I kept experimenting with Processing outside of class. I was able to figure out how to make a shape bounce off the walls of the canvas and also make object appear and dissapear through clicking the mouse.
 
