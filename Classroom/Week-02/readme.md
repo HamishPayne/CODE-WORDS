@@ -1,8 +1,7 @@
 # Week 02
 
 ## Initials
-
-                 
+        
    a  |  b
 :-------------------------:|:-------------------------:
 ![](HP2.png)       |  ![](HP3.png) 
@@ -16,8 +15,11 @@ I've always enjoyed designing within a set of paramaters as it encourages me to 
 
 ## Modular Typefaces
 
-![](modulartypefaceslides.gif)
-*Some quick research we did in class on modular typefaces and type designers*
-
 We also looked at modular typefaces this week.
+I think modular typefaces and coding are very similar in the way that they both work within a set of limitations and follow a set of rules. A modular typeface must be made up from the same forms to concidered modular. I also like the way that most modular typefaces can by physically constructed and I imagine a lot of the time this is a part of the creative process of developing them as you could generate their physical forms and experiment with combinations to create the shapes.
 
+
+![](modulartypefaceslides.gif)
+*Some quick group research we did in class on modular typefaces and their designers*
+
+The designer that I found during our research session was Benoit Bodhuin
