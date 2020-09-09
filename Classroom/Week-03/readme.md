@@ -17,8 +17,8 @@ Having a stronger understanding of the meaning of electronic literature made me 
 | Floating Points - Anasickmodular video   | Visuals from Floating Points' live show | https://www.youtube.com/watch?v=WezWspsKgpM |
 | Daft Punk - Aerodynamic with Sonic Pi | Live performance of Aerodynamic by Daft Punk using Sonic Pi | https://www.youtube.com/watch?v=cydH_JAgSfg&feature=emb_logo|
 
-| Electronic Literature  |   |    |   |
-| ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Electronic Literature  |   |    |
+| ------------- | ------------- | ------------- | 
+| Content Cell  | Content Cell  | Content Cell  |
 | Eviebot  | Responds with the things that other users type into it  | https://www.eviebot.com/en/ |
 
