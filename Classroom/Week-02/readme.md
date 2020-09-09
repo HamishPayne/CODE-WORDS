@@ -1,13 +1,11 @@
 # Week 02
 
 ## Initials
-       
-![](Initials-gif.gif)       
-       
-   a  |  b | c
+              
+   a  |  b 
 :-------------------------:|:-------------------------:
 ![](HP2.png)       |  ![](HP3.png) 
-![](HP2screenshot.jpg)       | ![](HP3screenshot.jpg) |  
+![](HP2screenshot.jpg)       | ![](HP3screenshot.jpg) 
 
 
 this week we presented our initials that we designed and coded in processing.
