@@ -8,7 +8,7 @@ Having a stronger understanding of the meaning of electronic literature made me 
 
 
 | CHATBOTS  | | |
-| --- | --- | --- | --- |
+| ------------- | ------------- | ------------- | ------------- |
 | Eviebot  | Responds with the things that other users type into it  | https://www.eviebot.com/en/ |
 | PonchoBottle  | A funny weather bot | https://chatbottle.co/bots/poncho-the-weathercat |
 | PewdieBot  | A PewdiePie bot | https://www.pewdiebot.com/en/ |
@@ -16,5 +16,10 @@ Having a stronger understanding of the meaning of electronic literature made me 
 | Ben Swift Live-coding music set  | A live coding musical performance  | https://www.abc.net.au/news/2019-07-21/ben-swift-performs-live-coding-set-in-canberra/11301592?nw=0 |
 | Floating Points - Anasickmodular video   | Visuals from Floating Points' live show | https://www.youtube.com/watch?v=WezWspsKgpM |
 | Daft Punk - Aerodynamic with Sonic Pi | Live performance of Aerodynamic by Daft Punk using Sonic Pi | https://www.youtube.com/watch?v=cydH_JAgSfg&feature=emb_logo|
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
