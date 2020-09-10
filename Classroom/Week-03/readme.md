@@ -6,7 +6,7 @@ We split into groups again and did a quick research session finding different ex
 
 Having a stronger understanding of the meaning of electronic literature made me think a bit more about what I could do for my main project. I want to try and do something different to just presenting the text in written form on the screen, I need to research the possibilities of Processing to try and figure out some ways I can present my text in a unique way.
 
-[A huge collection of electronic literature](https://collection.eliterature.org/3/keyword.html#javascript)
+[A website featuring HEAPS of e-literature](https://collection.eliterature.org/3/keyword.html#javascript)
 
 |   |   |    |
 | ------------- | ------------- | ------------- | 
