@@ -32,6 +32,11 @@ I like these two modular typefaces as it's not immediately obvious that they are
 :-------------------------:|:-------------------------:
 ![](Pickle_2.jpg)       |  ![](Mineral_Gif.gif) 
 
+## Github
+This week we were introduced to Github, I had heard of Github before but had no idea what it was. Using Github to develop our SKO's seems like a really interesting way of forming a reflective piece of writing. I find it quite daunting writing large pieces of text, so breaking it up into folders and sections, using text and image to help explain and reflect on things should make the process a bit easier.
+
+In Stuart's studio at the beginning of the semester we were able to develop our SKO's in the form of a book, I really like these creative ways of producing a reflection on our learnings compared to just writing a reflection.
+
 ## Re-Readings
 
 At the end of the day we figured out our groups for the re-readings assignment and chose the games we wanted to use. Originally I was keen on using Minecraft but it turned out a lot of other people were too, so in the end my group chose [Club Penguin](https://en.wikipedia.org/wiki/Club_Penguin). At first I was a bit dissapointed that I wasn't going to be able to play Minecraft, but after signing up and exploring the CP world I was again interested to see what sort of results we could come up with within the limitations of the game.
