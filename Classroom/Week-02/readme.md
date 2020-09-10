@@ -33,7 +33,7 @@ I like these two modular typefaces as it's not immediately obvious that they are
 ![](Pickle_2.jpg)       |  ![](Mineral_Gif.gif) 
 
 ## Github
-This week we were introduced to Github, I had heard of Github before but had no idea what it was. Using Github to develop our SKO's seems like a really interesting way of forming a reflective piece of writing. I find it quite daunting writing large pieces of text, so breaking it up into folders and sections, using text and image to help explain and reflect on things should make the process a bit easier.
+This week we were introduced to Github, I had heard of Github before but had no idea what it was. Using Github to develop our SKO's seems like a really interesting way of forming a reflective piece of writing. I find it quite daunting writing large pieces of text, so breaking it up into folders and sections, using text and image to help explain and reflect on things will make the process a bit easier for me.
 
 In Stuart's studio at the beginning of the semester we were able to develop our SKO's in the form of a book, I really like these creative ways of producing a reflection on our learnings compared to just writing a reflection.
 
