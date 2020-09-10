@@ -41,6 +41,9 @@ Having a stronger understanding of the meaning of electronic literature made me 
 | Novelling | algorithmically orders and spatially arranges fragments of media (design elements, text, video and sound) in 6-minute cycles. | http://novelling.newbinarypress.com/start.html |
 | What if i'm the bad guy | “what if im the bad guy” is an experimental augmented reality based on the stories of three US soldiers in Afghanistan | https://webyarns.com/howto/howto.html |
 
+## Club Penguin
+The remainder of the class was spent working on our re:readings. My group logged into PC and explored the world a little further and started thinking about how we were going to produce the video. We were happy that we were able to purchase clothes and hairstyles for the penguins, name the penguins, have a private igloo home and also participate in the mini-games together.
+
 ## Processing
 This week I continued experimenting with Processing outside of class and focused on making things appear and dissapear with mouse click.
 
@@ -53,7 +56,6 @@ b) After a lot of trial and error I figured out how I could make words 'change' 
    a  |  b 
 :-------------------------:|:-------------------------:
 ![](bouncing_left_to_right.gif)       |  ![](now_you_see_me.gif) 
-
 
 
 
