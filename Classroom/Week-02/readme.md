@@ -35,7 +35,9 @@ I like these two modular typefaces as it's not immediately obvious that they are
 ## Github
 This week we were introduced to Github, I had heard of Github before but had no idea what it was. Using Github to develop our SKO's seems like a really interesting way of forming a reflective piece of writing. I find it quite daunting writing large pieces of text, so breaking it up into folders and sections, using text and image to help explain and reflect on things will make the process a bit easier for me.
 
-In Stuart's studio at the beginning of the semester we were able to develop our SKO's in the form of a book, I really like these creative ways of producing a reflection on our learnings compared to just writing a reflection.
+Github was quite intimidating at first, but like Proccessing after spending a bit of time playing around with it it started to make more sense. Having all of this work as public is quite intereseing as well, it will be helpful for us to be able to see each others work and also be able to edit each others code or borrow peoples markdown techniques. Normally when we do these kinds of reflections we probably wouldn't ever see each others work, but I think the ideas and realisations we have during the reflecction process can be more useful than the finished product.
+
+In Stuart's studio at the beginning of the semester we were able to develop our SKO's in the form of a book, I really like these alternate ways of creating a reflection on our learnings compared to just writing a reflection as I think it gives us the opportunity to think about our work and our learnings in a different way
 
 ## Re-Readings
 
