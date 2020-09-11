@@ -9,12 +9,12 @@ This got me thinking about ways I could use the text for the major project. I th
 
 Most of the class this week revolved around coding. Karen introduced us working with words and typography in Processing.
 We produced a spinning word that grew and shrunk with the mouse coordinates (a). The possibilities of interactivity with the type is something I am keen to explore further.
-Karen also tought us how to make a [spirograph](https://en.wikipedia.org/wiki/Spirograph) in Processing.
+Karen also tought us how to make a [spirograph](https://en.wikipedia.org/wiki/Spirograph) that also changed speeds depending on the mouse position (b).
   
    a  |  b 
 :-------------------------:|:-------------------------:
-![](words_spin.gif)       |  ![](HP3.png) 
-![](HP2screenshot.jpg)       | ![](HP3screenshot.jpg)   
+![](words_spin.gif)       |  ![](spirograph.gif) 
+![](CODE SCREENSHOT)       | ![](CODE SCREENSHOT)   
   
 *What is the opposite of reading?*  
 *What is accessible reading?*  
