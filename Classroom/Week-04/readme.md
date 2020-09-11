@@ -14,7 +14,7 @@ Karen also tought us how to make a [spirograph](https://en.wikipedia.org/wiki/Sp
    a  |  b 
 :-------------------------:|:-------------------------:
 ![](words_spin.gif)       |  ![](spirograph.gif) 
-![](CODE SCREENSHOT)       | ![](CODE SCREENSHOT)   
+![](words_spin_code.jpg)       | ![](spirograph_code.jpg)   
   
 *What is the opposite of reading?*  
 *What is accessible reading?*  
