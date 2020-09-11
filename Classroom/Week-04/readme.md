@@ -5,7 +5,7 @@ Prior to this class I had done a little bit of experimenting with type inside of
 
 ![](long_form_text.jpg)
 
-This got me thinking about ways I could use the text for the major project. I think it could be interesting to not use words at all and try using spoken word of presenting the text through audio in some way. I think if we are looking at this as a new way of 'reading' maybe the visual element can be entirely eliminated creating a new experience of reading altogether. I think it could be really interesting to push the traditional preconceptions of what it means to read something, Because we are working in a digital space we have the ability to not limit the text to a single language or format.
+This got me thinking about ways I could use the text for the major project. I think it could be interesting to not use words at all and try using spoken word of presenting the text through audio in some way. I think if we are looking at this as a new way of 'reading' maybe the visual element can be entirely eliminated creating a new experience of reading altogether. I think it could be really interesting to push the traditional preconceptions of what it means to read something, Because we are working in a digital space we also have the ability to not limit the text to a single language or format.
 
 ![](ImmersionVR_Reader.gif)  
 [ImmersionVR Reader Version 2.0](https://www.youtube.com/watch?v=zS3nDbYyrpA&t=147s&ab_channel=immersionVR)  
