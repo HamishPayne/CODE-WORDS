@@ -21,5 +21,4 @@ Karen also tought us how to make a [spirograph](https://en.wikipedia.org/wiki/Sp
 *What does universal reading look like?*  
 *What comes after the Kindle?*  
 
-![](ImmersionVR_Reader.gif)  
-[ImmersionVR Reader Version 2.0](https://www.youtube.com/watch?v=zS3nDbYyrpA&t=147s&ab_channel=immersionVR) A Virtual Reality reader program for Oculus Go.
+
