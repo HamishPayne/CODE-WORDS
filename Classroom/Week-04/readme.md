@@ -11,7 +11,10 @@ Most of the class this week revolved around coding. Karen introduced us working 
 We produced a spinning word that grew and shrunk with the mouse coordinates (a). The possibilities of interactivity with the type is something I am keen to explore further.
 Karen also tought us how to make a [spirograph](https://en.wikipedia.org/wiki/Spirograph) in Processing.
   
-  
+   a  |  b 
+:-------------------------:|:-------------------------:
+![](words_spin.gif)       |  ![](HP3.png) 
+![](HP2screenshot.jpg)       | ![](HP3screenshot.jpg)   
   
 *What is the opposite of reading?*  
 *What is accessible reading?*  
