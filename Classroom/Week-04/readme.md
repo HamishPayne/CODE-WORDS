@@ -1,7 +1,7 @@
 # Week 04
 
 ## Processing
-Prior to this class I had done a little bit of experimenting with type inside of Processing, I figured out how to use typefaces and also how to enter long form text using a TXT file (below).
+Prior to this class I had done a little bit of experimenting with type inside of Processing, I figured out how to bring typefaces in and also how to enter long form text using a TXT file (below).
 
 ![](long_form_text.jpg)
 
