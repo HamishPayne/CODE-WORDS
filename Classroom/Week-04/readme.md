@@ -10,10 +10,11 @@ This got me thinking about ways I could use the text for the major project. I th
 ![](ImmersionVR_Reader.gif)  
 [ImmersionVR Reader Version 2.0](https://www.youtube.com/watch?v=zS3nDbYyrpA&t=147s&ab_channel=immersionVR) A Virtual Reality reader program for Oculus Go.
 
+Most of the class this week revolved around coding. Karen introduced us working with words and typography in Processing.
+We produced a spinning word that grew and shrunk with the mouse coordinates (a). The possibilities of interactivity with the type is something I am keen to explore further.
+Karen also tought us how to make a [spirograph](https://en.wikipedia.org/wiki/Spirograph) in Processing.
+
 *What is the opposite of reading?*  
 *What is accessible reading?*  
 *What does universal reading look like?*  
 *What comes after the Kindle?*  
-
-Most of the class this week revolved around coding. Karen introduced us working with words and typography in Processing.
-We produced a spinning word that grew and shrunk with the mouse coordinates. The possibilities of interactivity with the type is something that would be cool to use in the major project
