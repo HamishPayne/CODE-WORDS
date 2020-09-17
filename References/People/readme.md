@@ -16,7 +16,7 @@ Philippe Apeloig\
 Nonformat\
 Ahn Sang\
 Fanette Mellier\
-Muir McMeil \
+Muir McMeil\
 Mike Kelly\ 
 Fanette Mellie\
 Sol LeWitt\
