@@ -47,7 +47,8 @@ The remainder of the class was spent working on our re:readings. My group logged
 ## Processing
 This week I continued experimenting with Processing outside of class and focused on making things appear and dissapear with mouse click.
 
-a) This was fairly easy to figure out, I just had to figure out the distance the circle needed to travel so that it would change direction when the edge touched the outside of the 600x600 square. I also managed to create the effect of the circle dissapearing and the text appearing by placing rectangles filled with the background colour in front of them which appeared/dissapeared when the mouse was clicked.
+#### a) 
+This was fairly easy to figure out, I just had to figure out the distance the circle needed to travel so that it would change direction when the edge touched the outside of the 600x600 square. I also managed to create the effect of the circle dissapearing and the text appearing by placing rectangles filled with the background colour in front of them which appeared/dissapeared when the mouse was clicked.
 
 b) After a lot of trial and error I figured out how I could make words 'change' when the mouse was clicked. Through trying to figure this out i realised how much creative coding is just problem solving. I had to think about this in a liteal way as if these words andshapes were real objects and try and figure out how i could hide/conceal them and make the others appear. My final solution was to have a rectangle appear over the top of 'now you see me' which would conceal the text, while this happens 'now you don't' is also made visable by the mouse click. This creates the effect of the words changing with the click of a mouse.
 
