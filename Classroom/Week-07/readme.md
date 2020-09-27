@@ -11,7 +11,12 @@ The design of Whiespering Galleries is very similar to what I want to do with my
 Win also showed my Phase font by [Elias Hanzer](https://www.eliashanzer.com/) which I had actually known about before, but he remindede me that it has an audio input option which lets you play with the aspects of the font through the audio input on the computer which is another idea i'm interesting in using for the project, I'm going to see if I can inspect the code that the site uses to figure out how it's done. Thanks Win!
 
 ## p5js
-In the afternoon Karen showed us a few different resources for p5js and showed us some cool examples of using sprites (1,2), I remember using sprites when using [Game Maker](https://www.yoyogames.com/gamemaker) when i was in grade 3.
+In the afternoon Karen showed us a few different resources for p5js and showed us some cool examples of using sprites (a,b), I remember using sprites when using [Game Maker](https://www.yoyogames.com/gamemaker) when i was in grade 3.
+
+   a  |  b 
+:-------------------------:|:-------------------------:
+![](HP2.png)       |  ![](HP3.png) 
+![](HP2screenshot.jpg)       | ![](HP3screenshot.jpg) 
 
 [p5js libraries](https://p5js.org/libraries/)\
 -An overview of p5js libraries
