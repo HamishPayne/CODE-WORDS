@@ -28,9 +28,9 @@ We also got introduced to psuedocode this week. Essentially, psuedocode is a way
 
 We were tasked with choosing a simple task that we complete every day and trying to turn the process into psuedocode. I chose having a shower and the code looked like this:
 
-START
+*START*
 
-IF shower door closed THEN\
+*IF shower door closed THEN\
 	   open door\
 IF shower door open THEN \
 	test temp\
@@ -40,6 +40,6 @@ IF temp is good THEN\
 	enter shower\
 AFTER enter shower\
 	shut door\
-BEGIN cleaning routine\
+BEGIN cleaning routine*\
 
-END
+*END*
