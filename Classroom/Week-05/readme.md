@@ -21,3 +21,24 @@ Another reason I chose this text is because I found once reading through it a fe
 *body politics*\
 *neo-natal procedures*\
 *use of the body within specific parameters*
+
+## Psuedocode
+
+We also got introduced to psuedocode this week. Essentially, psuedocode is a way of explaining a process using more literaly instructions than real computer coding. It's a way of trying to understand the process of something in a more human way before coding it in computer language. (could explain better?)
+
+We were tasked with choosing a simple task that we complete every day and trying to turn the process into psuedocode. I chose having a shower and the code looked like this:
+
+START
+
+IF shower door closed THEN 	open door
+ IF shower door open THEN 	test temp
+
+IF temp is not good THEN 	adjust temp to good 
+IF temp is good THEN 	enter shower
+
+AFTER enter shower
+	shut door
+
+BEGIN cleaning routine
+
+END
