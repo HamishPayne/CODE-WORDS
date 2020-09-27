@@ -13,15 +13,15 @@ Win also showed my Phase font by [Elias Hanzer](https://www.eliashanzer.com/) wh
 ## p5js
 In the afternoon Karen showed us a few different resources for p5js and showed us some cool examples of using sprites (a,b), I remember using sprites when using [Game Maker](https://www.yoyogames.com/gamemaker) when i was in grade 3.
 
-   a  |  b 
-:-------------------------:|:-------------------------:
-![](sprite_1.gif)       |  ![](sprite_2.gif) 
-
 [p5js libraries](https://p5js.org/libraries/)\
 -An overview of p5js libraries
 
 [p5.play](http://molleindustria.github.io/p5.play/)\
 -A p5js library used for creating games 'playthings'.
+
+   a  |  b 
+:-------------------------:|:-------------------------:
+![](sprite_1.gif)       |  ![](sprite_2.gif) 
 
 ## RMIT cuts
 Karen told us about the staff cuts that are currently happening at RMIT which I had no idea about, she used psuedocode to express her feelings toward the situation. 
