@@ -15,7 +15,6 @@ In the afternoon Karen showed us a few different resources for p5js and showed u
 
 [p5js libraries](https://p5js.org/libraries/)\
 -An overview of p5js libraries
-
 [p5.play](http://molleindustria.github.io/p5.play/)\
 -A p5js library used for creating games 'playthings'.
 
