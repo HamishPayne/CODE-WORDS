@@ -13,7 +13,7 @@ This week we chose our texts which we would be using for the major project. I ha
 
 Another reason I chose this text is because I found once reading through it a few times it was full of phrases and ideas that I would be able to draw upon for the project. I have compiled a few of the different ideas that jumped out to me, all from the first paragraph!
 
-*new eugenic conciousness\
+*new eugenic conciousness*\
 *physical bodies are cumbersome\
 *their opacity is opposed to the transparence of the digital utopia\
 *experiences are disruptive\
