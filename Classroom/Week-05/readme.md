@@ -11,7 +11,7 @@ The respone to my groups [outcome](https://www.youtube.com/watch?v=hxVLtIr6eNs&a
 ## Major Project
 This week we chose our texts which we would be using for the major project. I had checked out most of the texts that were offered and found majority of them quite difficult to unpack. I wanted to choose one that I was able to understand so that I'd be able to draw ideas from it with confidence. The text I chose was [Bodies and Digital Utopia by Catherin Bernard](http://digbeyond.com/readme/view.php?id=60&course=Code%20Words), I found this text fairly easy to understand and it is also centred around technologies role in a future world which is something i've become quite interesting after reading one of [Metahavens](https://theinfluencers.org/en/metahaven) books, [Psyop](https://www.artbook.com/9783960983620.html).
 
-Another reason I chose this text is because I found once reading through it a few times it was full of phrases and ideas that I would be able to draw upon for the project. I have compiled a few of the different ideas that jumped out to me, all from the first paragraph!
+Another reason I chose this text is because I found once reading through it a few times it was full of phrases and ideas that I would be able to draw upon for the project. I have compiled a few of the terms that jumped out to me, all from the first paragraph!
 
 *new eugenic conciousness*\
 *physical bodies are cumbersome*\
@@ -20,4 +20,4 @@ Another reason I chose this text is because I found once reading through it a fe
 *digital economy*\
 *body politics*\
 *neo-natal procedures*\
-*use of the body within specific parameters*\
+*use of the body within specific parameters*
