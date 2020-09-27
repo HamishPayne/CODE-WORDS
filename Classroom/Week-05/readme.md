@@ -24,7 +24,7 @@ Another reason I chose this text is because I found once reading through it a fe
 
 ## Psuedocode
 
-We also got introduced to psuedocode this week. Essentially, psuedocode is a way of explaining a process using more literaly instructions than real computer coding. It's a way of trying to understand the process of something in a more human way before coding it in computer language. (could explain better?)
+We also got introduced to psuedocode this week. Essentially, psuedocode is a way of explaining a process using more literaly instructions than real computer coding. It's a way of trying to understand the process of something in a more human way before coding it in computer language. We're meant to try and think about and develop a psuedocode for our main project before we start actually coding it.
 
 We were tasked with choosing a simple task that we complete every day and trying to turn the process into psuedocode. I chose having a shower and the code looked like this:
 
@@ -43,3 +43,5 @@ AFTER enter shower\
 BEGIN cleaning routine*
 
 *END*
+
+The main idea was to think about each step in this process and which actions would rely on an action happening before them, as well as the result of an action affecting the possiblity of another on happening. It sort of seems like how you would tell a robot to do something, you couldn't just say 'have a shower' you would need to break it down into seperate steps and instructions. I guess that's what coding is actually, instructions for a robot.
