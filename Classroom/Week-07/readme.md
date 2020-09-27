@@ -19,5 +19,5 @@ In the afternoon Karen showed us a few different resources for p5js and showed u
 [p5.play](http://molleindustria.github.io/p5.play/)\
 -A p5js library used for creating games 'playthings'.
 
-## Research
-Andy shared with us a list of interesting design folios and websites
+## RMIT cuts
+Karen told us about the staff cuts that are currently happening at RMIT which I had no idea about, she used psuedocode to express her feelings toward the situation. This was really interesting to me, 
