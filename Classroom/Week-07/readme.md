@@ -20,4 +20,25 @@ In the afternoon Karen showed us a few different resources for p5js and showed u
 -A p5js library used for creating games 'playthings'.
 
 ## RMIT cuts
-Karen told us about the staff cuts that are currently happening at RMIT which I had no idea about, she used psuedocode to express her feelings toward the situation. This was really interesting to me, 
+Karen told us about the staff cuts that are currently happening at RMIT which I had no idea about, she used psuedocode to express her feelings toward the situation. 
+(WRITE MORE ABOUT THIS)(WHAT WILL PROTESTS LOOK LIKE IN THE FUTURE)
+
+
+```
+Karen's Code
+#include <australianUniversities.h>
+#include <HEstaff.h>
+#include <NTEU.h>
+#include <students.h> 
+
+void fightTheCuts() {
+  while (cuts > 0) {
+    resist ();
+    print (“Fight The Cuts!”);
+    protest++; 
+    discuss();
+  }
+  print (“university belongs to all Australians”);
+} 
+``` 
+-Taken from [Bridie Toole's Github](https://github.com/bridieotoole/codewords/blob/master/week_07/readme.md)
