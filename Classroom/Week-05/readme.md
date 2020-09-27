@@ -45,3 +45,5 @@ BEGIN cleaning routine*
 *END*
 
 The main idea was to think about each step in this process and which actions would rely on an action happening before them, as well as the result of an action affecting the possiblity of another on happening. It sort of seems like how you would tell a robot to do something, you couldn't just say 'have a shower' you would need to break it down into seperate steps and instructions. I guess that's what coding is actually, instructions for a robot.
+
+[An article on psuedocode](https://blog.usejournal.com/how-to-write-pseudocode-a-beginners-guide-29956242698)
