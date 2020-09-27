@@ -44,7 +44,7 @@ void fightTheCuts() {
   print (“university belongs to all Australians”);
 } 
 ``` 
--Taken from [Bridie Toole's Github](https://github.com/bridieotoole/codewords/blob/master/week_07/readme.md)
+(Taken from [Bridie Toole's Github](https://github.com/bridieotoole/codewords/blob/master/week_07/readme.md))
 
 
 ## Inspo
