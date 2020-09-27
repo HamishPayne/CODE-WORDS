@@ -48,6 +48,10 @@ void fightTheCuts() {
 
 
 ## Inspo
-Andy shared with us a long list of different portfolio's and websites that had interesting coding, [one of the websites](http://matterofsorts.com/) featured a blur effect on the work which became clear once you hovered over it with the mouse. I'm wanting to do something quite similar to this for my project so I plan on inspecting the code to see how they have done this.
+Andy shared with us a long list of different portfolio's and websites that had interesting coding, [one of the websites](http://matterofsorts.com/) featured a blur effect on the work which became clear once you hovered over it with the mouse. I'm wanting to do something quite similar to this for my project so I plan on inspecting the code to see how they've achieved this.
+
+   a  |  b 
+:-------------------------:|:-------------------------:
+![](sprite_1.gif)       |  ![](sprite_2.gif) 
 
 
