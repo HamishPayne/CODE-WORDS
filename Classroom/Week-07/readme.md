@@ -15,8 +15,7 @@ In the afternoon Karen showed us a few different resources for p5js and showed u
 
    a  |  b 
 :-------------------------:|:-------------------------:
-![](HP2.png)       |  ![](HP3.png) 
-![](HP2screenshot.jpg)       | ![](HP3screenshot.jpg) 
+![](sprite_1.gif)       |  ![](sprite_1.gif) 
 
 [p5js libraries](https://p5js.org/libraries/)\
 -An overview of p5js libraries
