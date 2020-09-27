@@ -31,7 +31,7 @@ We were tasked with choosing a simple task that we complete every day and trying
 START
 
 IF shower door closed THEN\
-	open door\
+	   open door\
 IF shower door open THEN \
 	test temp\
 IF temp is not good THEN\
