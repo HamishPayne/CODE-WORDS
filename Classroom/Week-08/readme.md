@@ -2,4 +2,4 @@
 ![](andy_glitch.jpg)
 
 ## Paper Prototypes
-We
+https://docs.google.com/presentation/d/1dX_ZDAdoo_U-JSXTtUxhwClVBWJZjEu7X48fx6t4-Zc/edit#slide=id.g980079f83c_14_0
