@@ -15,7 +15,7 @@ In the afternoon Karen showed us a few different resources for p5js and showed u
 
    a  |  b 
 :-------------------------:|:-------------------------:
-![](sprite_1.gif)       |  ![](sprite_1.gif) 
+![](sprite_1.gif)       |  ![](sprite_2.gif) 
 
 [p5js libraries](https://p5js.org/libraries/)\
 -An overview of p5js libraries
