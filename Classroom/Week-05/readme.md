@@ -40,6 +40,6 @@ IF temp is good THEN\
 	enter shower\
 AFTER enter shower\
 	shut door\
-BEGIN cleaning routine*\
+BEGIN cleaning routine*
 
 *END*
