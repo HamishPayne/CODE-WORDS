@@ -30,8 +30,8 @@ We were tasked with choosing a simple task that we complete every day and trying
 
 START
 
-IF shower door closed THEN 	open door
- IF shower door open THEN 	test temp
+IF shower door closed THEN open door
+IF shower door open THEN test temp
 
 IF temp is not good THEN 	adjust temp to good 
 IF temp is good THEN 	enter shower
