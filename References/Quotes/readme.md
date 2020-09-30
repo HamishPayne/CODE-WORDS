@@ -5,10 +5,13 @@
  ―Mark Z Danielewski, House of Leaves, page 39
 
 ### “Infect someone with the love of the text” 
- -karen ann donnachie
+ -karen Ann Donnachie
  
 ### “Anecdotes vibrating in the project” 
  -Stuart Bailey
  
 ### "Travis Scott performing on fortnite is the same thing as an online poetry reading"
 -Simandy
+
+### "We are not archers"
+-Karen Ann Donnachie
