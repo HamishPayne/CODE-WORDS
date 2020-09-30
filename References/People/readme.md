@@ -26,4 +26,8 @@ Sol LeWitt\
 Benoit Bodhuin\
 Ben Fry Lauren Mcarthy\
 Ana Tait\
-Karel Martens
+Karel Martens\
+Tim Cook\
+Rosa Menkman\
+Catherine Bernard
+
