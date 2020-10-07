@@ -10,6 +10,6 @@ Karen spoke about checkpoints in a project, reaching each checkpoint in the stag
 
 ## Main Project
 
--List ideas
--Photo of sketch book
--Initial sketches
+-List ideas  
+-Photo of sketch book  
+-Initial sketches  
