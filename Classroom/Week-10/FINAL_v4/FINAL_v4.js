@@ -54,11 +54,11 @@ function draw(){
   image(cloud,-windowWidth/4,pos/3+300,3480/3,1336/3);
   
   //translate (0,-windowHeight/2+30);
-  fill(0);
-  textSize(30);
-  textFont (MGregular);
-  text ('PHYSICAL',-windowWidth/2+10,-windowHeight/2+30);
-  text ('DIGITAL',windowWidth/2-120,-windowHeight/2+30);
+  //fill(0);
+  //textSize(30);
+  //textFont (MGregular);
+  //text ('PHYSICAL',-windowWidth/2+10,-windowHeight/2+30);
+  //text ('DIGITAL',windowWidth/2-120,-windowHeight/2+30);
  
   
     
