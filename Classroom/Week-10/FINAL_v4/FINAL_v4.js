@@ -59,14 +59,7 @@ function draw(){
   //textFont (MGregular);
   //text ('PHYSICAL',-windowWidth/2+10,-windowHeight/2+30);
   //text ('DIGITAL',windowWidth/2-120,-windowHeight/2+30);
- 
-  
-    
-  //strokeWeight(0);
-  //textSize(windowWidth/90);
-  //fill (0,0,0,value);
-  //text ('Click, Shout, Scroll',0,0);
- 
+
 }
 
 function mousePressed() {
