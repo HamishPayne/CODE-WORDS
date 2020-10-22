@@ -24,7 +24,7 @@ In the afternoon Karen showed us a few different resources for p5js and showed u
 
 ## RMIT cuts
 Karen told us about the staff cuts that are currently happening at RMIT which I had no idea about, she used psuedocode to express her feelings toward the situation. 
-This made me think about what protests might look like in a totally digital world? I think that the power of protesting comes from the congregation of physical bodies and without that it loses it's impact. In the future it may become the removal from a digital system that is the act of protesting, gathering in an online location doesn't have the same visability and impact as it does in a physical world.
+This made me think about what protests might look like in a totally digital world. I think that the power of protesting comes from the congregation of physical bodies and without that it loses it's impact. In the future it may become the removal from a digital system that is the act of protesting, gathering in an online location doesn't have the same visability and impact as it does in a physical world.
 
 
 ```
