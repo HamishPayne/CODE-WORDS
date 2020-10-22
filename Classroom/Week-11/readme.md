@@ -10,8 +10,8 @@ https://docs.google.com/document/d/10JPVNuT5CizS7II0iEubLLbWQZ6S0t9YxBRqc5ZhSfU/
 -Don’t just waffle for the sake of it, be honest and speak about what you really did and thought. Don’t be superficial.   
 
 andy showed us examples of other studio showcases\
-http://rmitcd.grad.show/list.php
-http://wotisabook.com/
+http://rmitcd.grad.show/list.php\
+http://wotisabook.com/\
 http://www.digbeyond.com/ARuready/index.php
 
 ## Main Project
