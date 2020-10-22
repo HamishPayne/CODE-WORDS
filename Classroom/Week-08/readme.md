@@ -90,11 +90,11 @@ This week I continued to brainstorm different ideas for the sketch and different
 The main things I want to show are:
 
 *Control over the text without the use of the body*\
-Show the physical body as disruptive*\
-Create a non-uniform space and time*\
-Interact with the text using voice/sound*\
-If any key is pressed the sketch stops/restarts*\
-Opacity increases with volume level*\
+*Show the physical body as disruptive*\
+*Create a non-uniform space and time*\
+*Interact with the text using voice/sound*\
+*If any key is pressed the sketch stops/restarts*\
+*Opacity increases with volume level*\
 
 ![](Sketchbook.JPG)
 
