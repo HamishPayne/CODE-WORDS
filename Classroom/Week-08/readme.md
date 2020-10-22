@@ -17,3 +17,5 @@ Karen spoke about checkpoints in a project, reaching each checkpoint in the stag
   -One of the ideas from my text is the way that physical bodies become disruptive in the digital space, so I wanted to try and represent this through using audio as the only form of interaction.   
 -Photo of sketch book.   
 -Initial sketches.     
+
+[PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-07).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-9)
