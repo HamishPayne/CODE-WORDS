@@ -20,6 +20,10 @@ https://www.openprocessing.org/sketch/872535
 3D text in P5JS, camera movable with mouse. 3D space.
 https://www.openprocessing.org/sketch/913474
 
+### PHASE
+
+I ended up choosing Phase for the typeface of the project. After going back over my notes and trying to think of a way I could communicate the themes and ideas from my text through my typeface choice BLABLABLA
+
 ### THREE DIMENSIONAL
 
 SHOW RENDERING PROCESS
