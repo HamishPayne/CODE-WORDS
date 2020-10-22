@@ -1,6 +1,6 @@
 # Week 10
 
-## CLASSROOM
+## FONTS + FACES
 This week in class we spoke a bit about typeopgraphy and Andy reminded us that our major projects should have a typographic focus, he was saying it's easy to get caught up in the coding side of it but the assignment and studio are meant to have a focus on typography. Andy and Karen introduced us to Google Noto Fonts and Font Forge.
 
 ### [Google Noto Fonts](https://www.google.com/get/noto/)
