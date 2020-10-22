@@ -54,6 +54,8 @@ See the sketch [HERE](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-07
 Karen told us about the staff cuts that are currently happening at RMIT which I had no idea about, she used psuedocode to express her feelings toward the situation. 
 This made me think about what protests might look like in a totally digital world. I think that the power of protesting comes from the congregation of physical bodies and without that it loses it's impact. In the future it may become the removal from a digital system that is the act of protesting, gathering in an online location doesn't have the same visability and impact as it does in a physical world.
 
+*View the RMIT Students Against Uni Cuts Facebook page [HERE](https://www.facebook.com/rmitstudentsagainstunicuts/)*
+
 
 ```
 Karen's Code
