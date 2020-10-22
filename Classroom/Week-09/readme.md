@@ -25,7 +25,7 @@ Another idea i've been looking at is having physical interaction actually cause 
 
 I started to add in images to try and build a 3d layering effect like I had seen in the examples. Adding a background image and an image that would sit in front of the text but scroll at a different speed to create the illusion of depth in the sketch. I also tried using a totally white screen which would become transparent once the user began making noise which tied in nicely with the part of the text that spoke about the transparency of the digital utopia. I like how this is starting to look but after getting some feedback from friends they thought that the stark white that flashed with the audio input was a bit jarring and made it really hard to read the text underneath so I need to figure out a a better way to do this.
 
-Through layering images I will be able to visualise the transition from the physical world to the digital by representing the physical world in the foreground of the sketch and the digital world in the back.
+Through layering images I will be able to visualise the transition from the physical world to the digital by representing the physical world in the foreground of the sketch and the digital world in the back and by non-physical user interaction they will make this transition to read the text.
 
 I haven't put much thought into what typeface i'm going to use yet so I will need to start looking for something that will tie into the concept and work nicely in the sketch.
 
