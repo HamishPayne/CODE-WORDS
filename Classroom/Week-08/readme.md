@@ -87,13 +87,14 @@ This week I started to build the sketch for my main project. Following a Coding 
 *View the sketch [HERE](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-08/text_reacts_to_mic__cleanup_)*
 
 This week I continued to brainstorm different ideas for the sketch and different ways I could visualise themes from the sketch.
-The main things I want to show are:\
-*Control over the text without the use of the body\
-Show the physical body as disruptive\
-Create a non-uniform space and time\
-Interact with the text using voice/sound\
-If any key is pressed the sketch stops/restarts\
-Opacity increases with volume level\*
+The main things I want to show are:
+
+*Control over the text without the use of the body*\
+Show the physical body as disruptive*\
+Create a non-uniform space and time*\
+Interact with the text using voice/sound*\
+If any key is pressed the sketch stops/restarts*\
+Opacity increases with volume level*\
 
 ![](Sketchbook.JPG)
 
