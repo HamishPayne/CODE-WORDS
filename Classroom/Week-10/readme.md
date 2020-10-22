@@ -33,6 +33,8 @@ https://www.openprocessing.org/sketch/913474
 - 3D text (look at notes for why)
 - Speak aobut the physicallity of the images (rock, 3d text and it's natural texture)
 
+![](FINAL_V5.gif)
+
 [FINAL v5](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-10/FINAL_v5)  
 
 [PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-09).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-11)
