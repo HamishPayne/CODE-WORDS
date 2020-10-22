@@ -31,7 +31,7 @@ https://www.openprocessing.org/sketch/913474
 
 Following last weeks class I wanted to find a typeface for my project. After being reminded by Win about the Phase typeface I did some more experimenting with it's possible variations and decided it would be perfect for the project. The font can be edited online and downloaded as whatever varient you come up with as a full set of glyphs. One of the outcomes produced a font which combined different stroke weights within some of the letterforms, I think this is a really nice way of visualising the idea of a transition from physical to digital.
 
-![]](PHASE.gif)
+![](PHASE.gif)
 
 
 ### THREE DIMENSIONAL
