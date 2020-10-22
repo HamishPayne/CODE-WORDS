@@ -7,6 +7,23 @@ We started off the session this week by putting the chosen section of our text i
 
 After we shared our paper prototypes in our group we uploaded them to a google doc and also came up with a short piece of pseudo code to describe what we wanted to happen in the sketch.
 
+```
+START
+
+SCREEN = fillCanvas with colour(255) 100% opacity
+TEXT = Broken into words randomly placed across screen
+
+INPUT mic
+	Mic volume (up) = SCREEN opacity % lowers
+	Mic volume (down) = SCREEN opacity % rises
+
+TEXT displayed with words broken up at random
+	Mic volume (up) = text reforming together
+	Into paragraph
+	Mic volume (down) = text breaking up into
+	Seperate words
+``` 
+
 ### [Whispering Galleries](https://www.whisperinggalleries.com/)   
 "Whispering Galleries is an interactive artwork developed specifically for the city of New Haven by Brad Bouse and Amaranth Borsuk, the creators of Between Page and Screen, a book of augmented reality poems."\
 The design of Whiespering Galleries is very similar to what I want to do with my project, using type/transparency and audio input to effect text on the screen. I will try and do some further research into this project to see if i can find some motion visuals of it in action. The project explore themes of the intersection of phsycial and digital which is exactly what i'm looking at doing.
