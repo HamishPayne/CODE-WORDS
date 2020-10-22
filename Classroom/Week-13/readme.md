@@ -14,3 +14,5 @@ Finished off GitHub
 - Reminded that 'the industry' isn't the only career path.   
 - Continute to play with coding in the future.  
 - My thoughts about technology at the beginning of the semester vs the end
+
+[PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-12)
