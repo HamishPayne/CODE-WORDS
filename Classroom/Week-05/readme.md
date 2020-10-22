@@ -8,7 +8,7 @@ It's interesting to see the application of something being used in a contrasting
 
 The respone to my groups outcome was awesome! I honestly didn't exepct people to like it, but we got a really good response on what we made. Ferg's scene of the mineshaft was the standout. I think we did a good job of working with our limitations, using the different aspects of the game to our advantage like the minigames helped us to try and think about communicating the themes of the text in a more conceptual way as we were fairly limited with typing in the game. I think you have more of an opportunity to be creative when there are limitations.
 
-The outcome can be viewed [HERE](https://www.youtube.com/watch?v=hxVLtIr6eNs&ab_channel=CeliaMance)
+*The outcome can be viewed [HERE](https://www.youtube.com/watch?v=hxVLtIr6eNs&ab_channel=CeliaMance)*
 
 ## Major Project
 This week we chose our texts which we would be using for the major project. I had checked out most of the texts that were offered and found majority of them quite difficult to unpack. I wanted to choose one that I was able to understand so that I'd be able to draw ideas from it with confidence. The text I chose was [Bodies and Digital Utopia by Catherin Bernard](http://digbeyond.com/readme/view.php?id=60&course=Code%20Words), I found this text fairly easy to understand and it is also centred around technologies role in a future world which is something i've become quite interesting after reading one of [Metahavens](https://theinfluencers.org/en/metahaven) books, [Psyop](https://www.artbook.com/9783960983620.html).
