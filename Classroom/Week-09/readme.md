@@ -18,7 +18,9 @@ Take a Walk on the Wild Side is a four-day conference-festival and exhibition he
 ## MAJOR PROJECT
 This week I didn't manage to get to class on Thursday so I just continued working on my project.
 I started to experiment with using a blur filter which would be controlled by the mic input to make the text readible through non-physical interaction, but I found that it would be extremely laggy and wasn't going to work the way I wanted to use it. As an alternative I tried filling the window with a colour that's opacity would lower with mic interaction, this seemed to work a lot smoother than the blur effect but wasn't quite as impressive on screen.
-[This](https://p5js.org/learn/interactivity.html) is a great example that shows a grey square gradually changing colours each time it is clicked. I want to use something like this to communicate the idea of the physical body being interuptive. If the user presses any key on the keyboard or mouse the sketch will slowly start to dissapear or become disrupted in some way.
+
+Another idea i've been looking at is having physical interaction actually cause the sketch to become unreadable or interupted. After looking at the examples on the p5.js website I found [this](https://p5js.org/learn/interactivity.html). It's a great example which shows a rectangle that slightly changes colour when you click it. I think something like this could work really well to communicate the idea of physical interaction as being disruptive.
+
 ![](mouse_pressed_gradual_change.jpg)
 
 [PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-08).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-10)
