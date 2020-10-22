@@ -13,15 +13,5 @@ Karen showed us appear/dissapear?
 ## Major Project
 After deciding which text I was going to use last week I printed the text out and chose which section I was going to use for the major project. The text spoke about a few different artists and projects which were all relating to the ideas of physical bodies in a digital utopia, but I found that the introduction paragraph to the section on [Floating Point Unit](https://floating.pt/), a group of New York-based artists, summed up the ideas from the whole text nicely.
 
-``` // 
-In the age of new eugenic consciousness, physical bodies are cumbersome: 
-their opacity is opposed to the transparence of the digital utopia that 
-promotes a distance from experienced reality and a uniform space and time. 
-The body and physical ex- periences are disruptive, because physical 
-functions are both unpredictable and difficult to quantify. Within the 
-digital economy, desire is given a privileged place, be- cause it can be 
-rerouted into consumerism. Body politics, then need to be orches- trated 
-within this frame of organized consumption and fabrication: fit bodies, 
-perfect health, eugenic ideology and neo-natal procedures organize the 
-comprehension and use of the body within specific parameters.
-```
+chosen text:
+### In the age of new eugenic consciousness, physical bodies are cumbersome: their opacity is opposed to the transparence of the digital utopia that promotes a distance from experienced reality and a uniform space and time. The body and physical ex- periences are disruptive, because physical functions are both unpredictable and difficult to quantify. Within the digital economy, desire is given a privileged place, be- cause it can be rerouted into consumerism. Body politics, then need to be orches- trated within this frame of organized consumption and fabrication: fit bodies, perfect health, eugenic ideology and neo-natal procedures organize the comprehension and use of the body within specific parameters.
