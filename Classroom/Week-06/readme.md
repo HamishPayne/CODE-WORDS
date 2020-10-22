@@ -9,4 +9,4 @@ My group chose the old mobile phone game [Snake](https://www.google.com/search?q
 ## Processing
 Karen showed us appear/dissapear?
 
-[PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-05)[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-07)
+[PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-05).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-07)
