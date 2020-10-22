@@ -21,7 +21,7 @@ some questions i was asking myself this week
 *How can I make it smoother, whole numbers for the tint?  
 How can I limit the mouse scroll?  
 Would it be possible to have a different font each time? Random out of 10.
-Take advantage of the phase font. 
-Do you think I’m leaving out too much from the text? Eugenics, body politics etc?  
-I’m trying to think of a work around for using mouse scroll, it’s physical.  
+Take advantage of the phase font.   
+Do you think I’m leaving out too much from the text? Eugenics, body politics etc?     
+I’m trying to think of a work around for using mouse scroll, it’s physical.    
 Originally I was going to use natural objects as I imagined in a digital utopia we would yearn for nature and the physical world, but I’m trying to do a bit more research to see how others have visualised it.*.  
