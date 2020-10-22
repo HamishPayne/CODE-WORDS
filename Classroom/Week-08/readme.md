@@ -13,7 +13,7 @@ Karen spoke about checkpoints in a project, reaching each checkpoint in the stag
 -We made the wiggly letters sketch
 
 ## Main Project
--List ideas
+-List ideas  
   -One of the ideas from my text is the way that physical bodies become disruptive in the digital space, so I wanted to try and represent this through using audio as the only form of interaction.
 -Photo of sketch book  
 -Initial sketches  
