@@ -79,6 +79,8 @@ class Wiggle {
 ```
 
 ## MAJOR PROJECT
+This week I started to build the sketch for my main project. Following a Coding Train tutorial I was able to incorperate the imcrophone input. I was able to make the mic input effect the colour of the text so that it appeared to dissapear when you made noise. It was good to figure out how the mic input worked but I will need to keep working on this to figure out how to actually make the text appear and dissapear and not just change the colour of it.
+
 -List ideas  
   -One of the ideas from my text is the way that physical bodies become disruptive in the digital space, so I wanted to try and represent this through using audio as the only form of interaction.   
 -Photo of sketch book.   
