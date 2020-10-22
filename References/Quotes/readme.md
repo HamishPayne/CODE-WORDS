@@ -18,3 +18,6 @@
 
 ### "The internet is not a medium, it's a collection of people"
 -Karen Ann Donnachie
+
+### "You've jumped in a Ferrari without a drivers license"
+-Karen Ann Donnachie
