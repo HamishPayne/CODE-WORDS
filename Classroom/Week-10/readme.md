@@ -1,8 +1,11 @@
 # Week 10
 
 ## Classroom
--Google Noto Fonts.  
--Font Forge.  
+- Google Noto Fonts.  
+- Font Forge.  
+- Andy reminded us of the list of examples made by Karen that were available to us. Reminded us we must reference any code we use or borrow from others.   
+https://github.com/Simandy/codewords/blob/master/processing/examples.md
+https://github.com/Simandy/codewords/tree/master/processing
 
 ## Main Project
 -Show some of the inspo from notes. Only the stuff that's relevent    
