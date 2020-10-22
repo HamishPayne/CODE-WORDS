@@ -12,7 +12,7 @@ The design of Whiespering Galleries is very similar to what I want to do with my
 [Phase](https://www.eliashanzer.com/phase/)  
 Win also showed my Phase font by [Elias Hanzer](https://www.eliashanzer.com/) which I have actually played around with before, but he reminded me that it has an audio input option which lets you play with the paramaters of the font through the audio input on the computer which is an idea i'm interesting in using for my project, I'm going to see if I can inspect the code that the site uses to figure out how it's done. Thanks Win!
 
-## Show + Tell
+### Show + Tell
 After we shared our paper prototypes in our group we uploaded them to a [google doc](https://docs.google.com/presentation/d/1dX_ZDAdoo_U-JSXTtUxhwClVBWJZjEu7X48fx6t4-Zc/edit#slide=id.g980079f83c_10_10) and also came up with a short piece of pseudo code to describe what we wanted to happen in the sketch to share with the class. As always it was really nice to see what everyone had produced, I really enjoy these show and tell sessions because we don't get the chance to see each others work as we're not in the physical classroom. It was really interesting to see the different approaches people took with their paper prototypes, like Andy and Karen had spoken about it makes it much easier to picture someones project compared to them just speaking/writing about it.
 
 ```
