@@ -8,13 +8,14 @@ I started to experiment with using a blur filter which would be controlled by th
 After seeing [Krtinine's project](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_10/MajorProjectSketch05/) I was really inspried to try and incorperate different layers into the sketch to give it a 3D effect without actually designing it in a 3D space. I did some further research online and found a few different examples of this layering scroll effect which I want to try and use in my project.\
 
 ### [Indirect Flights](http://indirect.flights/)
-Indirect Flights, a new online work by Joe Hamilton with sound by J.G. Biberkopf and supported by The Moving Museum, the use of layers and different scrolling speeds creates a really intersting effect, you can also scroll horizontally which is really cool. The images all repeat when you scroll so it seems like the artwork is endless in all directions.
+Indirect Flights is an online artwork created by Joe Hamilton with sound by J.G. Biberkopf and supported by The Moving Museum. the use of layers and different scrolling speeds creates a really intersting effect of depth, you can also scroll horizontally which is really cool and the images and textures repeat when you scroll so it seems like the artwork is endless in all directions.
 
 ![](indirect.flights.gif)
 
-[take a walk on the wild side](https://takeawalkonthewildside.rietveldacademie.nl/)\
-![](wildside.gif)
+### [take a walk on the wild side](https://takeawalkonthewildside.rietveldacademie.nl/)
+Take a Walk on the Wild Side is a four-day conference-festival and exhibition held at the Stedelijk Museum Amsterdam, the event is run by the Rietveld Academie. I'm not really sure what the purpose of this website is but it is quite similar to the Indirect Flights artwork, using mostly organic natural textures which are layerd and move at seperate speeds to create a sense of depth. This is what I want to try and achieve with my project, it seems like it would be relatively simple to code and would give me more time to work on the typography and design.
 
+![](wildside.gif)
 
 [My main project so far](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-09/text_reacts_to_mic).
 -Talk about main project so far. Ideas, problems etc.
