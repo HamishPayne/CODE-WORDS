@@ -82,6 +82,10 @@ class Wiggle {
 ## MAJOR PROJECT
 This week I started to build the sketch for my main project. Following a Coding Train tutorial I was able to incorperate the microphone input. I made the mic input effect the colour of the text so that it appeared to dissapear when you made noise. It was good to figure out how the mic input worked but I will need to keep working on this to figure out how to actually make the text appear and dissapear and not just change the colour of it. The idea is to force the user to interact in a non physical way, one of the ideas from my chosen section of text is the way that physical bodies become disruptive in a totally digital existance so I want to try and have that as the basis of the project.
 
+I managed to get the mic input to work by following along with a tutorial but after getting some feedback from Karen she mentioned that the way I have my canvas setup using 'let cnv' may give me issues further down the track so I will need to figure out how to get the sketch to work using the regular canvas. I also find that the direct mic levels are too low to effect the text enough so I will need to play around with the amounts and multiply the input amount to make it more sensitive.
+
+The text fading with the mic input works by mapping the microphone input level to the colour value of the text. I am going to try to figure out how to map this directly to the transparency of the text instead of the colour so it is actually appearing/dissapearing.
+
 ``` // 
  function setup(){
   let cnv = createCanvas(windowWidth, windowHeight);
