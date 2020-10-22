@@ -11,7 +11,7 @@ CLASS
   This doesn't have to all be in web view, just have a web page that is a landing page with a contents etc, the rest can be GIT folders.
  https://tajhealy.github.io/CodeWords/week_09/
 
-##Final Project
+## Final Project
 -final troubleshooting.  
 -Getting the right movement speed for objects and text.  
 -Sent it to some friends for their feedback.  
