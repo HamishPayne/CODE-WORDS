@@ -13,7 +13,11 @@ CLASS
 
 ## Final Project
 
--final troubleshooting.  
--Getting the right movement speed for objects and text.  
--Sent it to some friends for their feedback.  
--
+- final troubleshooting.  
+- Getting the right movement speed for objects and text.  
+- Sent it to some friends for their feedback.  
+
+## Minecraft
+
+- Show what I've built in Minecraft this sem lol
+
