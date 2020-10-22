@@ -81,7 +81,7 @@ class Wiggle {
 ## MAJOR PROJECT
 This week I started to build the sketch for my main project. Following a Coding Train tutorial I was able to incorperate the microphone input. I made the mic input effect the colour of the text so that it appeared to dissapear when you made noise. It was good to figure out how the mic input worked but I will need to keep working on this to figure out how to actually make the text appear and dissapear and not just change the colour of it.
 
-View the sketch [HERE](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-08/text_reacts_to_mic__cleanup)
+View the sketch [HERE](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-08/text_reacts_to_mic__cleanup_)
 
 -List ideas  
   -One of the ideas from my text is the way that physical bodies become disruptive in the digital space, so I wanted to try and represent this through using audio as the only form of interaction.   
