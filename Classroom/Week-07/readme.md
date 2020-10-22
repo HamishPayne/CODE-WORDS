@@ -10,7 +10,7 @@ We started off the session this week by putting the chosen section of our text i
 The design of Whiespering Galleries is very similar to what I want to do with my project, using type/transparency and audio input to effect text on the screen. I will try and do some further research into this project to see if i can find some motion visuals of it in action. The project explore themes of the intersection of phsycial and digital which is exactly what i'm looking at doing.
 
 ### [Phase](https://www.eliashanzer.com/phase/)  
-Win also showed my Phase font by [Elias Hanzer](https://www.eliashanzer.com/) which I had actually known about before, but he remindede me that it has an audio input option which lets you play with the aspects of the font through the audio input on the computer which is another idea i'm interesting in using for the project, I'm going to see if I can inspect the code that the site uses to figure out how it's done. Thanks Win!
+Win also showed my Phase font by [Elias Hanzer](https://www.eliashanzer.com/) which I have actually played around with before, but he reminded me that it has an audio input option which lets you play with the paramaters of the font through the audio input on the computer which is an idea i'm interesting in using for my project, I'm going to see if I can inspect the code that the site uses to figure out how it's done. Thanks Win!
 
 ## Processing
 In the afternoon Karen showed us a few different resources for p5js and showed us some cool examples of using sprites (a,b), I remember using sprites when using [Game Maker](https://www.yoyogames.com/gamemaker) when i was in grade 3.
