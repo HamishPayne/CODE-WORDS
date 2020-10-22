@@ -51,11 +51,9 @@ a) This was fairly easy to figure out, I just had to figure out the distance the
 
 b) After a lot of trial and error I figured out how I could make words 'change' when the mouse was clicked. Through trying to figure this out i realised how much creative coding is just problem solving. I had to think about this in a liteal way as if these words andshapes were real objects and try and figure out how i could hide/conceal them and make the others appear. My final solution was to have a rectangle appear over the top of 'now you see me' which would conceal the text, while this happens 'now you don't' is also made visable by the mouse click. This creates the effect of the words changing with the click of a mouse.
 
-
-
    a  |  b 
 :-------------------------:|:-------------------------:
 ![](bouncing_left_to_right.gif)       |  ![](now_you_see_me.gif) 
 
-
+[PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-02).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-04)
 
