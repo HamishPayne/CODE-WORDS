@@ -28,15 +28,6 @@ some questions i was asking myself this week
 - *I’m trying to think of a work around for using mouse scroll, it’s physical.*    
 - *Wrote out my 200 word reflection ready for the final submission*
 SHOW PROGRESS.  
-### 3D Text
-
-SHOW RENDERING PROCESS
-
-- Guy Debord’ss ‘the society of the spectacle’ which is referenced in my chosen text speaks about a “future society where all life presents itself as an immense accumulation of spectacles, Everything that was directly lived has moved away into representation.“
-- By creating the text in 3d the words become images. I thought about using icons or images instead of words.
-- By turning these letters into 3d objects in space they become ‘physical’ representations of letters and words.
-- I’ve Also been looking at a font which is made up completely of Nike ticks, I thought this would be an interesting take on ‘commodity fetishism’ that Debord speaks about, everything becomes a product. Even letters and language in this utopia has become a product.
-- Now my code is almost finalised I’m starting to think about the design of the virtual space
 
 ## David Rudnick
 https://www.youtube.com/watch?v=-ejp4AvetSA&ab_channel=StrelkaInstitute%2F%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0
