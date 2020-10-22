@@ -125,6 +125,8 @@ function draw(){
 
 *View the sketch [HERE](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-08/text_reacts_to_mic_2)*
 
+### Brainstorming
+
 This week I continued to brainstorm different ideas for the sketch and different ways I could visualise themes from the sketch.
 The main things I want to show are:
 
