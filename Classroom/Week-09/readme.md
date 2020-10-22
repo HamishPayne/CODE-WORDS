@@ -1,8 +1,13 @@
 # Week 09 (Missed Class)
 
-## Main Project
+## MAJOR PROJECT
 This week I didn't manage to get to class on Thursday so I just continued working on my project.
-I started to experiment with using a blur filter which would be controlled by the mic input to make the text readible through non-physical interaction, but I found that it would be extremely laggy and wasn't working the way I wanted it to.
+I started to experiment with using a blur filter which would be controlled by the mic input to make the text readible through non-physical interaction, but I found that it would be extremely laggy and wasn't going to work the way I wanted to use it. As an alternative I tried filling the window with a colour that's opacity would lower with mic interaction, this seemed to work a lot smoother than the blur effect but wasn't quite as impressive on screen.
+
+### PHYSICALITY 
+I started experimenting with adding layers to the sketch with background and foreground images. After seeing [Krtinine's project](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_10/MajorProjectSketch05/) I was really inspried to try and incorperate different layers into the sketch to give it a 3D effect without actually designing it in a 3D space.
+
+After seeing Kristines work I did some research and looked for websites that used this image layering effect I had in mind.
 
 
 [My main project so far](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-09/text_reacts_to_mic).
