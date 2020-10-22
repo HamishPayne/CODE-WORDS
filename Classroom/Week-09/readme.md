@@ -7,7 +7,8 @@ I started to experiment with using a blur filter which would be controlled by th
 ### 3D 
 After seeing [Krtinine's project](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_10/MajorProjectSketch05/) I was really inspried to try and incorperate different layers into the sketch to give it a 3D effect without actually designing it in a 3D space. I did some further research online and found a few different examples of this layering scroll effect which I want to try and use in my project.\
 
-[Indirect Flights](http://indirect.flights/)\
+### [Indirect Flights](http://indirect.flights/)\
+Indirect Flights, a new online work by Joe Hamilton with sound by J.G. Biberkopf and supported by The Moving Museum, the use of layers and different scrolling speeds creates a really intersting effect, you can also scroll horizontally which is really cool. The images all repeat when you scroll so it seems like the artwork is endless in all directions.
 ![](indirect.flights.gif)
 
 [take a walk on the wild side](https://takeawalkonthewildside.rietveldacademie.nl/)\
