@@ -1,10 +1,10 @@
 # Week 08
 ![](andy_glitch.jpg)
 
-## Checkpoints
+## CHECKPOINTS
 Karen spoke about checkpoints in a project, reaching each checkpoint in the stages of a project and working through it stage by stage. It's better than just seeing the end as the only checkpoint and it also gives you a fallback in case you are struggling to complete something you can just revert back to your last checkpoint. Karen also mentioned that we are not archers, we are not aiming to shoot our arrow and hit the bullseye, meaning there is not 1 specific goal we should be aiming for but instead be open to what we discover during the process and adjust our final goal as we work (I think that's what she meant).
 
-## Processing
+## PROCESSING
 This week Karen walked us through how to make a sketch focusing on classes which made words appear on the screen wherever you clicked, the words would also jitter at a speed relating to the Y position of the mouse. The words that were displayed were chosen at random from a list we created at the beginning of the code.
 
 *View the sketch [HERE](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-06/WigglyLetters)*
