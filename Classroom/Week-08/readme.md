@@ -84,7 +84,7 @@ This week I started to build the sketch for my main project. Following a Coding 
 
 ![](text_reacts_to_mic__cleanup_.gif)
 
-View the sketch [HERE](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-08/text_reacts_to_mic__cleanup_)
+*View the sketch [HERE](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-08/text_reacts_to_mic__cleanup_)*
 
 -List ideas  
   -One of the ideas from my text is the way that physical bodies become disruptive in the digital space, so I wanted to try and represent this through using audio as the only form of interaction.   
