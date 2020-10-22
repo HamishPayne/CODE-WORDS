@@ -18,4 +18,4 @@ Karen spoke about checkpoints in a project, reaching each checkpoint in the stag
 -Photo of sketch book.   
 -Initial sketches.     
 
-[PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-07).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-9)
+[PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-07).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-09)
