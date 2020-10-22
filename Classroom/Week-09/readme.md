@@ -23,7 +23,7 @@ Another idea i've been looking at is having physical interaction actually cause 
 
 ![](mouse_pressed_gradual_change.jpg)
 
-I started to add in images to try and build a 3d layering effect like I had seen in the examples. Adding a background image and an image that would sit in front of the text but scroll at a different speed to create the illusion of depth in the sketch. I also tried using a totally white screen which would become transparent once the user began making noise. I like how this is starting to look but after getting some feedback frmo friends they thought that the stark white that would flash with the audio input was a bit jarring and made it really hard to read the text underneath so I need to figure out if there's a better way to do this.
+I started to add in images to try and build a 3d layering effect like I had seen in the examples. Adding a background image and an image that would sit in front of the text but scroll at a different speed to create the illusion of depth in the sketch. I also tried using a totally white screen which would become transparent once the user began making noise. I like how this is starting to look but after getting some feedback from friends they thought that the stark white that would flash with the audio input was a bit jarring and made it really hard to read the text underneath so I need to figure out if there's a better way to do this.
 
 I haven't put much thought into what typeface i'm going to use yet so I will need to start looking for something that will tie into the concept and work nicely in the sketch.
 
