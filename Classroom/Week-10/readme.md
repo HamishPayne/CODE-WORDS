@@ -39,7 +39,7 @@ In my text Catherine Bernard speaks about Guy Debord's *The Society of the Spect
 
 My idea is to produce the text in my sketch in 3D, the idea being that in this digital utopia even writing and words have become some sort of representation, the words have become 'physical' objects, representations of words. Another idea I had was to use symbols instead of letters to tie into the idea of commodity fetishism which Debord speaks about, but I think that might detract from the reading experience.
 
-![](3D_text2.png)
+![](3D_text.png)
 
 - Now my code is almost finalised I’m starting to think about the design of the virtual space
 
