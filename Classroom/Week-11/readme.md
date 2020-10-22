@@ -20,7 +20,7 @@ Andy’s Feedback: 2:00:00 PM ––– amazing aesthetic. dreamy reading space.
 some questions i was asking myself this week  
 *How can I make it smoother, whole numbers for the tint?  
 How can I limit the mouse scroll?  
-Would it be possible to have a different font each time? Random out of 10.
+Would it be possible to have a different font each time? Random out of 10.  
 Take advantage of the phase font.   
 Do you think I’m leaving out too much from the text? Eugenics, body politics etc?     
 I’m trying to think of a work around for using mouse scroll, it’s physical.    
