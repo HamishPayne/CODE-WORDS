@@ -95,4 +95,6 @@ Interact with the text using voice/sound\
 If any key is pressed the sketch stops/restarts\
 Opacity increases with volume level\*
 
+[]!(Sketchbook.JPG)
+
 [PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-07).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-09)
