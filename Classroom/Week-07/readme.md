@@ -1,6 +1,6 @@
 # Week 07
 
-## Major Project
+## MAJOR PROJECT
 
 ### Paper Prototypes Presentation
 We started off the session this week by putting the chosen section of our text into [google doc](https://docs.google.com/spreadsheets/d/1rqOlmfpCzXC9kA_vBeLOcTpdxCvWeo4zsiNa4uiDHTY/edit#gid=0). Then, in small groups, we presented our paper prototypes we had made during the week for our projects. It was really good to hear Celia and Win's ideas for their projects and see their paper prototypes. Showing them mine and speaking them through my idea helped me to get a better understanding of what I actually wanted to do, they also gave me some really helpful feedback. Win also introduced me to Whispering Galleries and Phase which he thought sounded similar to what I wanted to do with my project.
@@ -33,7 +33,7 @@ TEXT displayed with words broken up at random
 ``` 
 
 
-## Processing
+## PROCESSING
 In the afternoon Karen showed us a few different resources for p5js and showed us some cool examples of using sprites (a,b), I remember using sprites when making games using [Game Maker](https://www.yoyogames.com/gamemaker) when i was in grade 2/3.
 
 [p5js libraries](https://p5js.org/libraries/)\
@@ -50,7 +50,7 @@ This was really helpful to learn because I am planning on using some sort of aud
 
 See the sketch [HERE](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-07/Sound_Test/)
 
-## RMIT cuts
+## RMIT CUTS
 Karen told us about the staff cuts that are currently happening at RMIT which I had no idea about, she used psuedocode to express her feelings toward the situation. 
 This made me think about what protests might look like in a totally digital world. I think that the power of protesting comes from the congregation of physical bodies and without that it loses it's impact. In the future it may become the removal from a digital system that is the act of protesting, gathering in an online location doesn't have the same visability and impact as it does in a physical world.
 
@@ -75,7 +75,7 @@ void fightTheCuts() {
 (Taken from [Bridie Toole's Github](https://github.com/bridieotoole/codewords/blob/master/week_07/readme.md))
 
 
-## Inspiration
+## INSPIRATION
 Andy shared with us a [collection](https://github.com/HamishPayne/codewords-3/tree/master/Case_studies) of different portfolio's and websites that had interesting coding, [one of the websites](http://matterofsorts.com/) created by a type designer from Melbourne featured a blur effect on the work which became clear once you hovered over it with the mouse. I'm wanting to do something quite similar to this for my project so I plan on inspecting the code to see how they've achieved this.
 
 ![](BlurGif.gif)
