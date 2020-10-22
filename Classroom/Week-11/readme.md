@@ -46,3 +46,5 @@ https://www.youtube.com/watch?v=-ejp4AvetSA&ab_channel=StrelkaInstitute%2F%D0%98
 - Talking about how fine dining institutes are an example of what design should be. A restaurant can’t exist on the internet, they must consider space, physically, smell, sound. These all have an effect on the final product of the restaurant experience.   
 - What kind of narrative can you produce with something that only exists on the internet.   
 - Chefs do research trips, experimentation with food, RnD. Chefs must be doing something expeptional and new to be successful at that level. Imagine if designers worked on that level. Everything we make is a revelation, and also meaningful.   
+
+[PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-10).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-12)
