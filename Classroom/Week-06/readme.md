@@ -9,3 +9,6 @@ My group chose the old mobile phone game [Snake](https://www.google.com/search?q
 Karen showed us appear/dissapear?
 
 [PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-05).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-07)
+
+## Major Project
+After deciding which text I was going to use last week I printed the text out and chose which section I was going to use for the major project. The text spoke about a few different artists and projects which were all relating to the ideas of physical bodies in a digital utopia, but I found that the introduction paragraph to the section on [Floating Point Unit](https://floating.pt/), a group of New York-based artists, covered the ideas from the whole text nicely.
