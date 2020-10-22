@@ -31,5 +31,5 @@ We also looked at a few different examples of people using video games as storyt
 -Andy asked everyone if their reading a book at the moment. I might try to document what i'm reading throughout the semester and what books i'm looking at, I think this would be interesting to be able to look back on.   
 A new program for graphic design
 
-
+[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-02)
  
