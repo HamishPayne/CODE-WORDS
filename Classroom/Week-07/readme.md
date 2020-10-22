@@ -16,9 +16,9 @@ Win also showed my Phase font by [Elias Hanzer](https://www.eliashanzer.com/) wh
 In the afternoon Karen showed us a few different resources for p5js and showed us some cool examples of using sprites (a,b), I remember using sprites when making games using [Game Maker](https://www.yoyogames.com/gamemaker) when i was in grade 2/3.
 
 [p5js libraries](https://p5js.org/libraries/)\
--An overview of p5js libraries\
+*An overview of p5js libraries*\
 [p5.play](http://molleindustria.github.io/p5.play/)\
--A p5js library used for creating games 'playthings'.
+*A p5js library used for creating games 'playthings'*\
 
    a  |  b 
 :-------------------------:|:-------------------------:
