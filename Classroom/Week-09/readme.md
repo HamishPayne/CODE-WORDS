@@ -25,4 +25,6 @@ Another idea i've been looking at is having physical interaction actually cause 
 
 I started to add in images to try and build a 3d layering effect like I had seen in the examples. Adding a background image and an image that would sit in front of the text but scroll at a different speed to create the illusion of depth in the sketch. I also tried using a totally white screen which would become transparent once the user began making noise,
 
+![](FINAL_V2.gif)
+
 [PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-08).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-10)
