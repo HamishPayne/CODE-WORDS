@@ -27,5 +27,9 @@ We also looked at a few different examples of people using video games as storyt
 :-------------------------:|:-------------------------:
 ![](the_pookah.gif)       |  ![](Quake-Friends) 
 
+## READING
+-Andy asked everyone if their reading a book at the moment. I might try to document what i'm reading throughout the semester and what books i'm looking at.
+A new program for graphic design
+
 
  
