@@ -9,7 +9,7 @@ https://docs.google.com/document/d/10JPVNuT5CizS7II0iEubLLbWQZ6S0t9YxBRqc5ZhSfU/
 -Max 300 words, do roughly 200.   
 -Don’t just waffle for the sake of it, be honest and speak about what you really did and thought. Don’t be superficial.   
 
-andy showed us examples of other studio showcases
+andy showed us examples of other studio showcases\
 http://rmitcd.grad.show/list.php
 http://wotisabook.com/
 http://www.digbeyond.com/ARuready/index.php
