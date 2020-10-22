@@ -1,4 +1,4 @@
-# Week 09 (Missed Class)
+# Week 09 (absent)
 
 ## MAJOR PROJECT
 This week I didn't manage to get to class on Thursday so I just continued working on my project.
