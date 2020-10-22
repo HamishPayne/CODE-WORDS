@@ -17,7 +17,7 @@ http://www.digbeyond.com/ARuready/index.php
 ## Main Project
 Andy’s Feedback: 2:00:00 PM ––– amazing aesthetic. dreamy reading space... and perfect font. digital utopia that explores digital materiality. loss of physical body (use of mic). take care of scrolling... what about floating the rock so that it returns into view...   
 
-some questions i was asking myself this week  
+some questions i was asking myself this week     
 - *How can I make it smoother, whole numbers for the tint?  *
 - *How can I limit the mouse scroll?*  
 - *Would it be possible to have a different font each time? Random out of 10.*  
