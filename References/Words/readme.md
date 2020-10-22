@@ -26,3 +26,5 @@ To a disgusting or ridiculous degree; to the point of nausea
 an indefinitely small quantity; a value approaching zero.
 ## Abracadarium
 n/a
+## disparate
+essentially different in kind; not able to be compared.
