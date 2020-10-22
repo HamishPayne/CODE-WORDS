@@ -32,6 +32,7 @@ https://www.openprocessing.org/sketch/913474
 - Show my 'notes for my project'   
 - 3D text (look at notes for why)
 - Speak aobut the physicallity of the images (rock, 3d text and it's natural texture)
+- SHOW CODE (go back and add in code for prev weeks)
 
 ![](FINAL_V5.gif)
 
