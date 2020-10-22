@@ -50,7 +50,7 @@ void fightTheCuts() {
 
 
 ## Inspiration
-Andy shared with us [a collection](https://github.com/HamishPayne/codewords-3/tree/master/Case_studies) of different portfolio's and websites that had interesting coding, [one of the websites](http://matterofsorts.com/) created by a type designer from Melbourne featured a blur effect on the work which became clear once you hovered over it with the mouse. I'm wanting to do something quite similar to this for my project so I plan on inspecting the code to see how they've achieved this.
+Andy shared with us a [collection](https://github.com/HamishPayne/codewords-3/tree/master/Case_studies) of different portfolio's and websites that had interesting coding, [one of the websites](http://matterofsorts.com/) created by a type designer from Melbourne featured a blur effect on the work which became clear once you hovered over it with the mouse. I'm wanting to do something quite similar to this for my project so I plan on inspecting the code to see how they've achieved this.
 
 ![](BlurGif.gif)
 
