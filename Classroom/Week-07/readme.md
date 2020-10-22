@@ -24,6 +24,11 @@ In the afternoon Karen showed us a few different resources for p5js and showed u
 :-------------------------:|:-------------------------:
 ![](sprite_1.gif)       |  ![](sprite_2.gif) 
 
+We also looked at adding in sound using the p5.js sound library. We made fairly simple sketches which would play a sound when you clicked the mouse.
+Using audio for my main project was something I was thinking about as it could be considered a non-physical thing.
+
+See the sketch [HERE](
+
 ## RMIT cuts
 Karen told us about the staff cuts that are currently happening at RMIT which I had no idea about, she used psuedocode to express her feelings toward the situation. 
 This made me think about what protests might look like in a totally digital world. I think that the power of protesting comes from the congregation of physical bodies and without that it loses it's impact. In the future it may become the removal from a digital system that is the act of protesting, gathering in an online location doesn't have the same visability and impact as it does in a physical world.
