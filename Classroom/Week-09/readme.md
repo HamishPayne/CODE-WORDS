@@ -3,7 +3,7 @@
 ## INSPIRED
 
 ### 3D LAYERS 
-After seeing [Krtinine's project](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_10/MajorProjectSketch05/) I was really inspried to try and incorperate different layers into the sketch to give it a 3D effect without actually designing it in a 3D space. I did some further research online and found a few different examples of this layering scroll effect which I want to try and use in my project.\
+After seeing [Krtinine's project](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_10/MajorProjectSketch05/) I was really inspried to try and incorperate different layers into the sketch to give it a 3D effect without actually designing it in a 3D space. I did some further research online and found a few different examples of this layering scroll effect which I want to try and use in my project.
 
 ### [INDIRECT FLIGHTS](http://indirect.flights/)
 Indirect Flights is an online artwork created by Joe Hamilton with sound by J.G. Biberkopf and supported by The Moving Museum. the use of layers and different scrolling speeds creates a really intersting effect of depth, you can also scroll horizontally which is really cool and the images and textures repeat when you scroll so it seems like the artwork is endless in all directions.
