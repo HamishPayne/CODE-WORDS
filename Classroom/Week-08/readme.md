@@ -82,6 +82,41 @@ class Wiggle {
 ## MAJOR PROJECT
 This week I started to build the sketch for my main project. Following a Coding Train tutorial I was able to incorperate the microphone input. I made the mic input effect the colour of the text so that it appeared to dissapear when you made noise. It was good to figure out how the mic input worked but I will need to keep working on this to figure out how to actually make the text appear and dissapear and not just change the colour of it. The idea is to force the user to interact in a non physical way, one of the ideas from my chosen section of text is the way that physical bodies become disruptive in a totally digital existance so I want to try and have that as the basis of the project.
 
+``` // 
+ function setup(){
+  let cnv = createCanvas(windowWidth, windowHeight);
+  cnv.mousePressed(userStartAudio);
+  mic = new p5.AudioIn();
+  mic.start();
+
+}
+
+function draw(){
+  background(20);
+  textAlign(CENTER);
+  
+  micLevel = mic.getLevel();
+  let y = height - micLevel * height*5;
+  
+  rectMode(RADIUS);
+  fill(20);
+  stroke(255);
+  rect (windowWidth/2,63,125,20);
+  
+  noStroke(0);
+  textFont(Monument);
+  textSize(21);
+  fill(255);
+  text ('CLICK THEN SHOUT',windowWidth/2,70);
+ 
+  textFont (Serifbabe);
+  textSize(50);
+  fill(y/6);
+  translate(windowWidth/45,windowHeight/6);
+  text (utopiaCAPS,0,0,windowWidth-40, height*10);
+}
+```
+
 ![](text_reacts_to_mic__cleanup_.gif)
 
 *View the sketch [HERE](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-08/text_reacts_to_mic_2)*
