@@ -25,7 +25,8 @@ Take advantage of the phase font.
 Do you think I’m leaving out too much from the text? Eugenics, body politics etc?  
 How to make the words slowly scroll with mic input? Only moves really slow.   
 How can I make the rocks slow/stop with mic input?  
-I’m trying to think of a work around for using mouse scroll, it’s physical.*   
+I’m trying to think of a work around for using mouse scroll, it’s physical.*    
+-Wrote out my 200 word reflection ready for the final submission
 -SHOW PROGRESS.  
 ### 3D Text
   Guy Debord’ss ‘the society of the spectacle’ which is referenced in my chosen text speaks about a “future society where all life presents itself as an immense accumulation of spectacles, Everything that was directly lived has moved away into representation.“
