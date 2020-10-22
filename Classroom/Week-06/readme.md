@@ -10,6 +10,8 @@ My group chose the old mobile phone game [Snake](https://www.google.com/search?q
 ## Processing
 This week Karen walked us through how to make a sketch focusing on classes which made words appear on the screen wherever you clicked, the words would also jitter at a speed relating to the Y position of the mouse. The words that were displayed were chosen at random from a list we created at the beginning of the code.
 
+View the sketch [HERE]((https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-06/WigglyLetters)
+
 ``` // 
 // Base sketch by Karen Ann Donnachie 
 // a sketch to learn about "class" construction and also some wiggly letters
