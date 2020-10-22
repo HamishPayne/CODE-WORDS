@@ -12,6 +12,7 @@ CLASS
  https://tajhealy.github.io/CodeWords/week_09/
 
 ## Final Project
+
 -final troubleshooting.  
 -Getting the right movement speed for objects and text.  
 -Sent it to some friends for their feedback.  
