@@ -1,9 +1,16 @@
 # Week 10
 
 ## CLASSROOM
-- Google Noto Fonts.  
-- Font Forge.  
-- Andy reminded us of the list of examples made by Karen that were available to us. Reminded us we must reference any code we use or borrow from others.   
+This week in class we spoke a bit about typeopgraphy and Andy reminded us that our major projects should have a typographic focus, he was saying it's easy to get caught up in the coding side of it but the assignment and studio are meant to have a focus on typography. Andy and Karen introduced us to Google Noto Fonts and Font Forge.
+
+### [Google Noto Fonts](https://www.google.com/get/noto/)
+Google Noto Fonts is a font family being developed by Google which aims to support all languages, "Noto is Google's answer to tofu. The name noto is to convey the idea that Google's goal is to see no more tofu".
+
+### [Font Forge](https://fontforge.org/en-US/)
+Font Forge is a free open source font editor. Andy and Karen have mentioned a few times this semester how they think it's important for students to produce their own typefaces. They have said they beleive it's important for students and designers to be able to produce a project that they have produced entirely themselves from start to finish including the production of a typeface to the final printing. This is something I've always wanted to have a go at and I think I will experiment with this summer.
+
+Andy reminded us of the list of examples made by Karen that were available to us and stressed the importance of referencing any code that you borrow or take from someone elses work.
+
 https://github.com/Simandy/codewords/blob/master/processing/examples.md
 https://github.com/Simandy/codewords/tree/master/processing
 
