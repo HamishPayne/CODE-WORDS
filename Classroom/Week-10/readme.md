@@ -20,6 +20,18 @@ https://www.openprocessing.org/sketch/872535
 3D text in P5JS, camera movable with mouse. 3D space.
 https://www.openprocessing.org/sketch/913474
 
+### THREE DIMENSIONAL
+
+SHOW RENDERING PROCESS
+
+- Guy Debord’ss ‘the society of the spectacle’ which is referenced in my chosen text speaks about a “future society where all life presents itself as an immense accumulation of spectacles, Everything that was directly lived has moved away into representation.“
+- By creating the text in 3d the words become images. I thought about using icons or images instead of words.
+- By turning these letters into 3d objects in space they become ‘physical’ representations of letters and words.
+- I’ve Also been looking at a font which is made up completely of Nike ticks, I thought this would be an interesting take on ‘commodity fetishism’ that Debord speaks about, everything becomes a product. Even letters and language in this utopia has become a product.
+- Now my code is almost finalised I’m starting to think about the design of the virtual space
+
+### notes
+
 - Show the final layer as a utopia
 - ‘Distance from experienced reality’
 - The layered images go from physical space to digital space
