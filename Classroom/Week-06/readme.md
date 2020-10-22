@@ -89,4 +89,6 @@ After deciding which text I was going to use last week I chose which section I w
 
 During the rest of the week we were tasked with producing a paper prototype for our project. The aim was to visualise whatever idea we had for the project to be able to easily communicate it with others. The idea that I had come up with was to use transparency or blur effects to change the visability of the sketch, this would be controlled by the microhpone input to tie in with the idea that physical bodies would become a disruption in a digital utopia. This was the basis of my idea and I kenw that I would change/add to it throughout the creative process.
 
+![](Paper-Prototype.gif)
+
 [PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-05).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-07)
