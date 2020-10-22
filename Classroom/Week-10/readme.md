@@ -29,7 +29,10 @@ https://www.openprocessing.org/sketch/913474
 
 ### PHASE
 
-I ended up choosing Phase for the typeface of the project. After going back over my notes and trying to think of a way I could communicate the themes and ideas from my text through my typeface choice BLABLABLA
+Following last weeks class I wanted to find a typeface for my project. After being reminded by Win about the Phase typeface I did some more experimenting with it's possible variations and decided it would be perfect for the project. The font can be edited online and downloaded as whatever varient you come up with as a full set of glyphs. One of the outcomes produced a font which combined different stroke weights within some of the letterforms, I think this is a really nice way of visualising the idea of a transition from physical to digital.
+
+![]](PHASE.gi)
+
 
 ### THREE DIMENSIONAL
 
