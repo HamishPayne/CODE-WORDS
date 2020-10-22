@@ -94,7 +94,7 @@ The main things I want to show are:
 *Create a non-uniform space and time*\
 *Interact with the text using voice/sound*\
 *If any key is pressed the sketch stops/restarts*\
-*Opacity increases with volume level*\
+*Opacity increases with volume level*
 
 ![](Sketchbook.JPG)
 
