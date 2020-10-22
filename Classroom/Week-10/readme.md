@@ -1,22 +1,37 @@
 # Week 10
 
-## Classroom
+## CLASSROOM
 - Google Noto Fonts.  
 - Font Forge.  
 - Andy reminded us of the list of examples made by Karen that were available to us. Reminded us we must reference any code we use or borrow from others.   
 https://github.com/Simandy/codewords/blob/master/processing/examples.md
 https://github.com/Simandy/codewords/tree/master/processing
 
-## Main Project
-- Website that uses really nice ambient, blur images https://goldenhum.com/
-- Great website that creates depth through layer movements (Rietveld) http://takeawalkonthewildside.rietveldacademie.nl/
-- Another nice application of depth through layering of images http://indirect.flights/
-- Cool website with letters breaking apart and coming back together https://www.tophtucker.com/
+## MAIN PROJECT
+
+### Inspiration
+
+Insane pixel garden website
+http://www.pointcloud.garden/
+
+Using a 3d object in p5js (face model with text running over)
+https://www.openprocessing.org/sketch/872535
+
+3D text in P5JS, camera movable with mouse. 3D space.
+https://www.openprocessing.org/sketch/913474
+
+- Show the final layer as a utopia
+- ‘Distance from experienced reality’
+- The layered images go from physical space to digital space
+- Try and use 3d (cinema4d) to show physical text (physical materials) existing in a digital space
+- Could have multiple images that display randomly each time you refresh, each time it’s a different experience
+- What represents the physical? What represents the Digital?
+
 - Show some of the inspo from notes. Only the stuff that's relevent    
-- Need to ensure my project has a typographic focus. It's a typography class.  
-- Inspired by Kristine's use of 3D space in her sketch through layering. https://kristinegudmundsen.github.io/CodeWords/SKO/Week_10/MajorProjectSketch05/
+- Andy reminded us that this was a typography class and that we should be focusing on the typographic aspect of this project so i looked really hard for a typeface that would fit the themes of the text. PHASE
 - Show my 'notes for my project'   
-- Show my progress up to FINAL V5
+- 3D text (look at notes for why)
+- Speak aobut the physicallity of the images (rock, 3d text and it's natural texture)
 
 [FINAL v5](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-10/FINAL_v5)  
 
