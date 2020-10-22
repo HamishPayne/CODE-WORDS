@@ -8,10 +8,10 @@ My group chose the old mobile phone game [Snake](https://www.google.com/search?q
 ![](snake.gif)
 
 ## Processing
-This week Karen walked us through how to make a sketch which made words appear on the screen wherever you clicked, the words would also jitter at a speed relating to the Y position of the mouse. The words that were displayed were chosen at random from a list we created at the beginning of the code.
+This week Karen walked us through how to make a sketch focusing on classes which made words appear on the screen wherever you clicked, the words would also jitter at a speed relating to the Y position of the mouse. The words that were displayed were chosen at random from a list we created at the beginning of the code.
 
 ``` // 
-// Base sketch by 
+// Base sketch by Karen Ann Donnachie 
 // a sketch to learn about "class" construction and also some wiggly letters
 // 17 September
 var xPosition, yPosition, size, rand, letter, speed;
