@@ -1,6 +1,9 @@
 # Week 09 (Missed Class)
 
 ## Main Project
+This week I didn't manage to get to class on Thursday so I just continued working on my project.
+I started to experiment with using a blur filter which would be controlled by the mic input to make the text readible through non-physical interaction, but I found that it would be extremely laggy and wasn't working the way I wanted it to.
+
 
 [My main project so far](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-09/text_reacts_to_mic).
 -Talk about main project so far. Ideas, problems etc.
