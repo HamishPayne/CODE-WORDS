@@ -1,6 +1,6 @@
 # Week 09 (absent)
 
-## INSPIRED
+## INSPIRATION
 
 ### 3D LAYERS 
 After seeing [Krtinine's project](https://kristinegudmundsen.github.io/CodeWords/SKO/Week_10/MajorProjectSketch05/) I was really inspried to try and incorperate different layers into the sketch to give it a 3D effect without actually designing it in a 3D space. I did some further research online and found a few different examples of this layering scroll effect which I want to try and use in my project.
