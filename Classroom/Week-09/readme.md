@@ -3,6 +3,7 @@
 ## Main Project
 
 [My main project so far](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-09/text_reacts_to_mic).
+-Talk about main project so far. Ideas, problems etc.
 
 [Laggy Blur](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-09/text_blur)
 Laggy blur being effected by mouseX is extremely laggy to the point of the chrome window being unresponsive, need to troubleshoot.\
