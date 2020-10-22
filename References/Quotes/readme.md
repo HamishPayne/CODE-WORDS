@@ -15,3 +15,6 @@
 
 ### "We are not archers"
 -Karen Ann Donnachie
+
+### "The internet is not a medium, it's a collection of people"
+-Karen Ann Donnachie
