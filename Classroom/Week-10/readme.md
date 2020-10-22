@@ -1,5 +1,9 @@
 # Week 10
 
+## Classroom
+-Google Noto Fonts.  
+-Font Forge.  
+
 ## Main Project
 -Show some of the inspo from notes. Only the stuff that's relevent    
 -Need to ensure my project has a typographic focus. It's a typography class.   
