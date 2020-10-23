@@ -58,7 +58,4 @@ This studio has been awesome and a really great way to finish my studies. I've r
 
 Massive thanks to Andy and Karen for helping us all this semester, it's been a really great experience and one I will never forget!
 
-## MINECRAFT
-- Show what I've built in Minecraft this sem lol
-
-[PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-11).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-13)
+[PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-11)
