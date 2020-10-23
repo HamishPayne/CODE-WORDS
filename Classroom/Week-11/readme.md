@@ -10,8 +10,8 @@ https://docs.google.com/document/d/10JPVNuT5CizS7II0iEubLLbWQZ6S0t9YxBRqc5ZhSfU/
 
 Andy spoke to us about what we were going to do with the website where we would all display our work at the end of the studio, he showed us some examples of similar sites that him and Karen had produced in the past
 
-http://rmitcd.grad.show/list.php\
-http://wotisabook.com/\
+http://rmitcd.grad.show/list.php \
+http://wotisabook.com/ \
 http://www.digbeyond.com/ARuready/index.php
 
 ## MAJOR PROJECT
