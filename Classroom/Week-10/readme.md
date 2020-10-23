@@ -16,17 +16,6 @@ https://github.com/Simandy/codewords/tree/master/processing
 
 ## MAJOR PROJECT
 
-### Inspiration
-
-Insane pixel garden website
-http://www.pointcloud.garden/
-
-Using a 3d object in p5js (face model with text running over)
-https://www.openprocessing.org/sketch/872535
-
-3D text in P5JS, camera movable with mouse. 3D space.
-https://www.openprocessing.org/sketch/913474
-
 ### PHASE
 
 Following last weeks class I wanted to find a typeface for my project. After being reminded by Win about the [Phase typeface](https://www.eliashanzer.com/phase/) I did some more experimenting with it's possible variations and decided it would be perfect for the project. The font can be edited online and downloaded as whatever varient you come up with as a full set of glyphs. One of the possible outcomes is a font which combines different stroke weights within some of the letterforms, I think this is a really nice way of visualising the idea of a transition from physical to digital.
