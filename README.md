@@ -1,4 +1,3 @@
-![](CODEWORDS.jpg)
 # SKO STATEMENT
 This studio has been awesome and a really great way to finish my studies. I’ve really enjoyed learning the processes involved in creative coding and it has given me a different way of approaching my design work as a whole. Andy and Karen have been awesome teachers for this final semester, their approaches and views on design and education have been really important and eye opening for me. I aim to keep experimenting with creative coding in the future and see how I can integrate it into my practice.
 
