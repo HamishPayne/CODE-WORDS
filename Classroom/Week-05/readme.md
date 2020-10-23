@@ -50,4 +50,4 @@ The main idea was to think about each step in this process and which actions wou
 
 [An article on psuedocode](https://blog.usejournal.com/how-to-write-pseudocode-a-beginners-guide-29956242698)
 
-[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-04/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-06/)
+[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-04/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-06/).[HOME](https://hamishpayne.github.io/CODE-WORDS/)
