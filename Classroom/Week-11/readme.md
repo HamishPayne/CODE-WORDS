@@ -1,20 +1,20 @@
 # Week 11
 
-## Classroom
-Written Respone for main proejct
--They shared with us a document to help us reflect on our work and write an artist statement.  
+## CLASSROOM
+During class this week Andy and Karen shared with us a document they had made which would help us to talk about our work and come up with our written statements. This is something I've always struggled with so working through it step by step was really helpful, I will hang onto this document to use again in the future.
+
 https://docs.google.com/document/d/10JPVNuT5CizS7II0iEubLLbWQZ6S0t9YxBRqc5ZhSfU/edit
 
--Make sure it’s based around the text, that’s what the project was mainly bout.  
--Max 300 words, do roughly 200.   
--Don’t just waffle for the sake of it, be honest and speak about what you really did and thought. Don’t be superficial.   
+- Make sure it’s based around the text, that’s what the project is bout.  
+- Don’t just waffle for the sake of it, be honest and speak about what you really did and thought. Don’t be superficial.   
 
-andy showed us examples of other studio showcases\
+Andy spoke to us about what we were going to do with the website where we would all display our work at the end of the studio, he showed us some examples of similar sites that him and Karen had produced in the past
+
 http://rmitcd.grad.show/list.php\
 http://wotisabook.com/\
 http://www.digbeyond.com/ARuready/index.php
 
-## Main Project
+## MAJOR PROJECT
 Andy’s Feedback: 2:00:00 PM ––– amazing aesthetic. dreamy reading space... and perfect font. digital utopia that explores digital materiality. loss of physical body (use of mic). take care of scrolling... what about floating the rock so that it returns into view...   
 
 some questions i was asking myself this week     
@@ -29,7 +29,7 @@ some questions i was asking myself this week
 - *Wrote out my 200 word reflection ready for the final submission*
 SHOW PROGRESS.  
 
-## David Rudnick
+## DAVID RUDNICK
 https://www.youtube.com/watch?v=-ejp4AvetSA&ab_channel=StrelkaInstitute%2F%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0
 - “There were no clues, there were no lyrics, there was no imagery it was just a feeling.”   
 - “Design should become radically autonomous”.  
