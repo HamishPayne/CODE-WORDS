@@ -42,6 +42,7 @@ My idea is to produce the text in my sketch in 3D, drawing on the idea that in a
 ![](3D_text_close.png)
 
 ### The Code
+Over the week I continued to develop the code and worked on 
 
 ### notes
 
