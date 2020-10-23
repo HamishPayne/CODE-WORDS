@@ -1,6 +1,6 @@
 # Week 03
 
-## Electronic Literature
+## ELECTRONIC LITERATURE
 At the start of this class we started looking at what electronic literature was and what it could be.
 We split into groups again and did a quick research session finding different examples of electronic literature that fit into a few different catagories (see table below). Some of these things I wouldn't have concidered electronic literature before, I think my general idea of what electronic literatyre was was a piece of long form text that was displayed in a digital format, but now i beleive that it is a much broader catagory and can really be anything that uses letters, words or text, written or spoken, in any type of digital format.
 
@@ -41,10 +41,10 @@ Having a stronger understanding of the meaning of electronic literature made me 
 | Novelling | algorithmically orders and spatially arranges fragments of media (design elements, text, video and sound) in 6-minute cycles. | http://novelling.newbinarypress.com/start.html |
 | What if i'm the bad guy | “what if im the bad guy” is an experimental augmented reality based on the stories of three US soldiers in Afghanistan | https://webyarns.com/howto/howto.html |
 
-## Club Penguin
+## CLUB PENGUIN
 The remainder of the class was spent working on our re:readings. My group logged into PC and explored the world a little further and started thinking about how we were going to produce the video. We were happy that we were able to purchase clothes and hairstyles for the penguins, name the penguins, have a private igloo home and also participate in the mini-games together.
 
-## Processing
+## PROCESSING
 This week I continued experimenting with Processing outside of class and focused on making things appear and dissapear with mouse click.
 
 a) This was fairly easy to figure out, I just had to figure out the distance the circle needed to travel so that it would change direction when the edge touched the outside of the 600x600 square. I also managed to create the effect of the circle dissapearing and the text appearing by placing rectangles filled with the background colour in front of them which appeared/dissapeared when the mouse was clicked.
