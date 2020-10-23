@@ -6,28 +6,22 @@
 [Herbert Bayer](https://www.moma.org/artists/399)\
 [Daniel van der Velden](https://www.moma.org/artists/73633)\
 [Vinca Kruk](https://parsejournal.com/authors/vinca-kruk/#:~:text=Vinca%20Kruk%20is%20an%20artist,and%20politics%20after%20the%20internet.)\
-Fregio Meccano\
-Jurriaan Schrofer\
-Wim Crouwel\
-Otl Archer\
-Ken Garland\
-Takenobu Igarashi\
-Philippe Apeloig\
-Nonformat\
-Ahn Sang\
-Fanette Mellier\
-Muir McMeil\
-Mike Kelly\ 
-Fanette Mellie\
-Sol LeWitt\
-Tais Ghell\
-Siegfried Odermat\
-Sol LeWitt\
-Benoit Bodhuin\
-Ben Fry Lauren Mcarthy\
-Ana Tait\
-Karel Martens\
-Tim Cook\
-Rosa Menkman\
-Catherine Bernard
+[Jurriaan Schrofer](http://luc.devroye.org/fonts-52102.html)\
+[Wim Crouwel](http://www.designculture.it/interview/wim-crouwel.html)\
+[Otl Archer](https://www.famousgraphicdesigners.org/otl-aicher)\
+[Ken Garland](https://www.theguardian.com/artanddesign/2020/sep/07/ken-garland-graphic-designer-cnd-manifesto-hollywood)\
+[Takenobu Igarashi](http://www.takenobuigarashi.jp/en/)\
+[Philippe Apeloig](http://ideasondesign.net/speakers/speakers/philippe-apeloig/)\
+[Nonformat](http://non-format.com/)\
+[Ahn Sang](http://ideasondesign.net/speakers/speakers/ahn-sang-soo/)\
+[Fanette Mellier](https://fanettemellier.com/en/)\
+[Muir McMeil](https://muirmcneil.com/)\
+[Sol LeWitt](http://www.artnet.com/artists/sol-lewitt/)\
+[Siegfried Odermatt](https://a-g-i.org/user/siegfriedodermatt/#:~:text=Siegfried%20Odermatt%2C%20Switzerland%20(1974)&text=%2C%20Switzerland%20(1974)-,Odermatt%20calls%20himself%20a%20self%2Dtaught%20graphic%20designer%2C%20although%20he,a%20studio%20with%20Rosmarie%20Tissi.)\
+[Benoit Bodhuin](https://www.bb-bureau.fr/)\
+[Ben Fry](https://benfry.com/)\ 
+[Lauren Mcarthy](https://lauren-mccarthy.com/)\
+[Karel Martens](https://www.artsy.net/artist/karel-martens)\
+[Rosa Menkman](http://rosa-menkman.blogspot.com/)\
+[Catherine Bernard](https://katherinebernard.com/)
 
