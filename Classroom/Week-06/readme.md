@@ -16,4 +16,4 @@ During the rest of the week we were tasked with producing a paper prototype for 
 
 ![](Paper-Prototype.gif)
 
-[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-05/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-07/)
+[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-05/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-07/).[HOME](https://hamishpayne.github.io/CODE-WORDS/)
