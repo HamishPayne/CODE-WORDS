@@ -43,7 +43,7 @@ Using the same code that I used to effect the alpha of the text i mapped it to e
   image(fulltext, 0, k+windowHeight/20, width, p);
   k = k - h/2000;
 ``` 
-After sending the text to a friend they said they found it hard to read with the text at that size, the line length was too short. Over the next week I will work on the readability of the text and ensure that it reads nicely as a long piece of text and not just as words. I think having it in 3D makes it seem more like an image, but I want to ensure that it is still a reading experience.
+After sending the sketch to a friend they said they found it hard to read with the text at that size, the line length was too short. Over the next week I will work on the readability of the text and ensure that it reads nicely as a long piece of text and not just as words. I think having it in 3D makes it seem more like an image, but I want to ensure that it is still a reading experience.
 
 I've also introduced some more 'physical' objects into the foreground, focusing on natural objects to communicate the idea of a physical world. These are mapped the same way as the text to move to the outside of the sketch when the user makes noise, clearing the way for the text to be read. Over the next week I will work on the imagery and design of the digital utopia in the background of the sketch.
 
