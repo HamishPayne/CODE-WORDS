@@ -63,12 +63,12 @@ function keyPressed() {
   }
 }
 ``` 
+![](NEOTOPIA.gif)
+
 #### ARTIST STATEMENT
 NEOTOPIA invites the reader to consider a non-physical existence through an online interactive reading interface. Drawing on themes of digital physicality and the human body from Catherine Bernard’s ‘Bodies and Digital Utopia.’ NEOTOPIA visualises the inevitable complete transition from physical to digital, using the text as a way to discuss the physical and social repercussions of said transition. Playing on the expected interactive techniques of a web browser interface, NEOTOPIA introduces a new way of reading.
 In this new interface, all physical interactions are now disruptive to the reading experience. Any key pressed causes the digital SECTION of the interface to disappear. To activate the transitional state of the interface the user must vocally interact in some way, causing the physical objects to temporarily transition and fluctuate with the audio input levels clearing the way for the text. As well as making the text visible, the readers audio input scrolls the text, once again forcing the user to consider a non-physical way of interacting and reading.
 The text is set in Phase, a generative modular type concept created by Elias Hanzer. Connecting thicker, rigid forms with more organic, curved structures these letters come together to form a font which itself exists in a state of transition.
-
-![](NEOTOPIA.gif)
 
 *You can view my final projects code [HERE](https://github.com/HamishPayne/CODE-WORDS/blob/master/Processing/NEOTOPIA/NEOTOPIA.js)*\
 *You can view my final project [HERE](https://hamishpayne.github.io/CODE-WORDS/Processing/NEOTOPIA/)*\
