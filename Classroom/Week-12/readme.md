@@ -54,7 +54,9 @@ image(rock,b+h, e+h, width/5, rock.height*width/rock.width/5);
 *You can view the website showcasing all of our final projects [HERE](http://digbeyond.com/codeWords/list.php)*
 
 ## REFLECTION
+This studio has been awesome and a really great way to finish my studies. I've really enjoyed learning the processes involved in creative coding and it has given me a different way of approaching my design work as a whole. Andy and Karen have been awesome teachers for this final semester, their approaches and views on design and education have been really important and eye opening for me. I aim to keep experimenting with creative coding in the future and see how I can integrate it into my practice.
 
+Massive thanks to Andy and Karen for helping us all this semester, it's been a really great experience and one I will never forget!
 
 ## MINECRAFT
 - Show what I've built in Minecraft this sem lol
