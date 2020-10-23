@@ -82,4 +82,4 @@ Andy shared with us a [collection](https://github.com/HamishPayne/codewords-3/tr
 
 ![](BlurGif.gif)
 
-[PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-06).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-08)
+[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-06/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-08/)
