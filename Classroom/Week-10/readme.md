@@ -14,7 +14,7 @@ Andy reminded us of the list of examples made by Karen that were available to us
 https://github.com/Simandy/codewords/blob/master/processing/examples.md
 https://github.com/Simandy/codewords/tree/master/processing
 
-## MAIN PROJECT
+## MAJOR PROJECT
 
 ### Inspiration
 
