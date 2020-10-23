@@ -55,5 +55,5 @@ b) After a lot of trial and error I figured out how I could make words 'change' 
 :-------------------------:|:-------------------------:
 ![](bouncing_left_to_right.gif)       |  ![](now_you_see_me.gif) 
 
-[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-02/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-04/)
+[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-02/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-04/).[HOME](https://hamishpayne.github.io/CODE-WORDS/)
 
