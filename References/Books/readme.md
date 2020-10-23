@@ -1,5 +1,4 @@
-# This is an archive of all the books I have purchased this semester listed in order of physical dimensions.
-
+# This is an archive of all the books I have purchased this semester
 ![](IMG_9995.jpg)
 ![](IMG_9996.jpg)
 
