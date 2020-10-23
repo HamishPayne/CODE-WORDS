@@ -34,14 +34,14 @@ Following last weeks class I wanted to find a typeface for my project. After bei
 ![](PHASE.gif)
 
 
-### THREE DIMENSIONS
+### Three dimensions
 In my text Catherine Bernard speaks about Guy Debord's *The Society of the Spectacle*, a book written in 1967 that examines the 'specticle', "Debord's term for the everyday manifestation of capitalist-driven phenomena; advertising, television, film and celebrity". Debord's text speaks about a future society where all life presents itself as an accumulation of spectacles, everything is a representation. I thought it would be interesting to try and link the ideas in this text into my project as it seemed to strongly influence Catherine Bernard's text.
 
 My idea is to produce the text in my sketch in 3D, drawing on the idea that in a digital utopia even writing and words have become some sort of representation, the words have become 'physical' objects, representations of words. Another idea I had was to use symbols instead of letters to tie into the idea of commodity fetishism which Debord speaks about, but I think that might detract from the reading experience.
 
 ![](3D_text_close.png)
 
-- Now my code is almost finalised I’m starting to think about the design of the virtual space
+### The Code
 
 ### notes
 
