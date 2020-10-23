@@ -50,7 +50,7 @@ e = random(0,height);
 image(rock,b+h, e+h, width/5, rock.height*width/rock.width/5);
 ``` 
 
-Finally, I incorperated the background portion of the sketch to dissapear when a key is pressed on the keyboard, forcing the user to refresh the page to be able to read the text again. This represents the idea of physical bodies being disruptive and cumbersome in a digital utopia. 
+Finally, I incorperated the background portion of the sketch to dissapear when a key is pressed on the keyboard using the keyPressed function, forcing the user to refresh the page to be able to read the text again. This represents the idea of physical bodies being disruptive and cumbersome in a digital utopia. 
 ``` // 
   fill (250,value);
   rect (0,0,windowWidth,windowHeight);
