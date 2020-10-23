@@ -49,6 +49,21 @@ e = random(0,height);
 
 image(rock,b+h, e+h, width/5, rock.height*width/rock.width/5);
 ``` 
+
+Finally, I incorperated the background portion of the sketch to dissapear when a key is pressed on the keyboard, forcing the user to refresh the page to be able to read the text again. This represents the idea of physical bodies being disruptive and cumbersome in a digital utopia. 
+``` // 
+  fill (250,value);
+  rect (0,0,windowWidth,windowHeight);
+
+function keyPressed() {
+  if (tran === 0) {
+    tran = 255;
+  } else {
+    tran = 255;
+  }
+}
+``` 
+
 ![](NEOTOPIA.gif)
 
 *You can view my final projects code [HERE](https://github.com/HamishPayne/CODE-WORDS/blob/master/Processing/NEOTOPIA/NEOTOPIA.js)*\
