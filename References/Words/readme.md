@@ -7,6 +7,7 @@ A brownish-yellow colour
 ## Plateau
 1. An area of fairly level high ground
 2. A state of little or no change following a period of activity or progress
+
 ## Caustic
 1. Able to burn or corrode organic tissue by chemical action
 2. Sarcastic in a scathing and bitter way
