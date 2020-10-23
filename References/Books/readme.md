@@ -1,6 +1,17 @@
 # This is an archive of the books I have purchased this semester
 ![](IMG_9995.jpg)
 ![](IMG_9996.jpg)
-
+![](IMG_9999.jpg)
+![](IMG_9998.jpg)
+![](IMG_9997.jpg)
+![](IMG_0001.jpg)
+![](IMG_0002.jpg)
+![](IMG_0003.jpg)
+![](IMG_0004.jpg)
+![](IMG_0005.jpg)
+![](IMG_0006.jpg)
+![](IMG_0007.jpg)
+![](IMG_0008.jpg)
+![](IMG_0009.jpg)
 
 [HOME](https://hamishpayne.github.io/CODE-WORDS/)
