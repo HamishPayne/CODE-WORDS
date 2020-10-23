@@ -1,6 +1,8 @@
 ![](CODEWORDS.jpg)
 
 # STUDIO
+Weekly work and research completed inside and outside of class
+
 ### [Week 01](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-01/)
 ### [Week 02](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-02/)
 ### [Week 03](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-03/)
@@ -15,6 +17,7 @@
 ### [Week 12](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-12/)
 
 # NEW THINGS
+New things I have discovered this semester
 ### [Books](https://hamishpayne.github.io/CODE-WORDS/References/Books/)
 ### [Words](https://hamishpayne.github.io/CODE-WORDS/References/Words/)
 ### [People](https://hamishpayne.github.io/CODE-WORDS/References/People/)
