@@ -26,5 +26,5 @@ We also looked at a few different examples of people using video games as storyt
 ## READING
 Andy asked everyone if they were reading a book at the moment. I might try to document what i'm reading throughout the semester and what books i'm looking at, I think this would be interesting to be able to look back on. I'm currently reading A * New * Program for Graphic Design by David Reinfurt.
 
-[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-02/)
+[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-02/).[HOME](https://hamishpayne.github.io/CODE-WORDS/)
  
