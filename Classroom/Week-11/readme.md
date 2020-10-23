@@ -30,7 +30,7 @@ Some questions i'm asking myself this week
 
 Over the past week I worked on getting the text to scroll with the mic input. I felt using the mouse scroll was too much of a physical interaction, I wanted all interaction to be done through the mic. I also decided that having the alpha (opacity) of the text being effected by the mic input made it too difficult to read.
 
-Using the same code that I used to effect the alpha of the text i mapped it to effect the position on the Y axis. I will need to do some more testing to figure out what a good speed is for the text to scroll. I wills get some feedback from others to ensure it works well on different computers.
+Using the same code that I used to effect the alpha of the text i mapped it to effect the position on the Y axis. I will need to do some more testing to figure out what a good speed is for the text to scroll.
 
 ``` // 
   let vol = mic.getLevel()*40;
