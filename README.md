@@ -1,7 +1,7 @@
 ![](CODEWORDS.jpg)
 
 # STUDIO
-Weekly work and research completed inside and outside of class
+Weekly work and research completed inside and outside of class broken down into weeks
 
 ### [Week 01](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-01/)
 ### [Week 02](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-02/)
