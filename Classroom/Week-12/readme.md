@@ -1,5 +1,7 @@
 # WEEK 12
 
+![](CODEWORDS.jpg)
+
 ## CLASSROOM
 In class this week we all worked on filling out the submission form which had information for the website including our written statement. We also produced GIF's of our work for the website which was a lot harder than I thought it would be... Keeping them under 1MB was not easy. We also briefly presented our work to the class, it was awesome to see everyone's finished sketches and hear them speak about their process and final product.
 
