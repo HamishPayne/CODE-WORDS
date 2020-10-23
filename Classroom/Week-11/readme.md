@@ -57,9 +57,8 @@ This week I stumbled upon a great lecture that [David Rudnick](https://davidrudn
 
 He compared designers to chefs, chefs do research trips, experimentation with food and ingredients, research and development and spend years developing their skills . They must be doing something special and new to be succesful at a high level. Imagine if designers worked on that level, everything we produce had to be a revelation and also meaningful and relevent to us and our practice.
 
-![](Rudnick_lecture.gif)
-
 *Watch the lecture [HERE](https://www.youtube.com/watch?v=-ejp4AvetSA&ab_channel=StrelkaInstitute%2F%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0)*
 
+![](Rudnick_lecture.gif)
 
 [PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-10).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-12)
