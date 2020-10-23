@@ -5,8 +5,8 @@ During class this week Andy and Karen shared with us a document they had made wh
 
 https://docs.google.com/document/d/10JPVNuT5CizS7II0iEubLLbWQZ6S0t9YxBRqc5ZhSfU/edit
 
-- Make sure it’s based around the text, that’s what the project is bout.  
-- Don’t just waffle for the sake of it, be honest and speak about what you really did and thought. Don’t be superficial.   
+- *Make sure it’s based around the text, that’s what the project is bout.* 
+- *Don’t just waffle for the sake of it, be honest and speak about what you really did and thought. Don’t be superficial.*   
 
 Andy spoke to us about what we were going to do with the website where we would all display our work at the end of the studio, he showed us some examples of similar sites that him and Karen had produced in the past
 
