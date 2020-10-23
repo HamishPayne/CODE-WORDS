@@ -42,7 +42,29 @@ My idea is to produce the text in my sketch in 3D, drawing on the idea that in a
 ![](3D_text_close.png)
 
 ### The Code
-Over the week I continued to develop the code and worked on 
+Over the week I continued to develop the code and worked on adding in the 3D text. I figured out how to make the text's transparency go down with the users mic input by mapping it to the alpha of the image, alpha is basically opacity in p5js. 
+
+``` // 
+  let vol = mic.getLevel()*40;
+  let h = map(vol, 0, 1, 0, 75);
+  
+  translate(windowWidth/2,windowHeight/2);
+  tint(255, h);
+  image(fulltext,0,pos,width/2, fulltext.height*width/fulltext.width/2);
+```
+I made the different layers of images scroll at different speeds by mapping them to a mouseWheel event and then dividing the number to slow down the movement.
+
+``` // 
+  image(rock,windowWidth/6+h*5,pos*3+windowWidth/6,1557/4,1139/4);
+  image(cloud,windowWidth/4,pos/2-250,3480/3,1336/3);
+  image(cloud,-windowWidth/4,pos/3+300,3480/3,1336/3);
+```
+``` // 
+  function mouseWheel(event) {
+  print(event.delta);
+  pos += event.delta;
+```
+
 
 ### notes
 
