@@ -140,5 +140,5 @@ The main things I want to show are:
 
 ![](Sketchbook.JPG)
 
-[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-07/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-09/)
+[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-07/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-09/).[HOME](https://hamishpayne.github.io/CODE-WORDS/)
 
