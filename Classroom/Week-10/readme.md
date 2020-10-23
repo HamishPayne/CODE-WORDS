@@ -37,7 +37,7 @@ Following last weeks class I wanted to find a typeface for my project. After bei
 ### Three dimensions
 In my text Catherine Bernard speaks about Guy Debord's *The Society of the Spectacle*, a book written in 1967 that examines the 'specticle', "Debord's term for the everyday manifestation of capitalist-driven phenomena; advertising, television, film and celebrity". Debord's text speaks about a future society where all life presents itself as an accumulation of spectacles, everything is a representation. I thought it would be interesting to try and link the ideas in this text into my project as it seemed to strongly influence Catherine Bernard's text.
 
-My idea is to produce the text in my sketch in 3D, drawing on the idea that in a digital utopia even writing and words have become some sort of representation, the words have become 'physical' objects, representations of words. Another idea I had was to use symbols instead of letters to tie into the idea of commodity fetishism which Debord speaks about, but I think that might detract from the reading experience.
+My idea is to produce the text in 3D using [Cinema4D](https://www.maxon.net/en-us/), drawing on the idea that in a digital utopia even writing and words have become some sort of representation, the words have become 'physical' objects, representations of words. Another idea I had was to use symbols instead of letters to tie into the idea of commodity fetishism which Debord speaks about, but I think that might detract from the reading experience.
 
 ![](3D_text_close.png)
 
@@ -65,24 +65,12 @@ I made the different layers of images scroll at different speeds by mapping them
   pos += event.delta;
 ```
 
-
-### notes
-
-- Show the final layer as a utopia
-- ‘Distance from experienced reality’
-- The layered images go from physical space to digital space
-- Try and use 3d (cinema4d) to show physical text (physical materials) existing in a digital space
-- Could have multiple images that display randomly each time you refresh, each time it’s a different experience
-- What represents the physical? What represents the Digital?
-
-- Show some of the inspo from notes. Only the stuff that's relevent    
-- Andy reminded us that this was a typography class and that we should be focusing on the typographic aspect of this project so i looked really hard for a typeface that would fit the themes of the text. PHASE
-- Show my 'notes for my project'   
-- 3D text (look at notes for why)
-- Speak aobut the physicallity of the images (rock, 3d text and it's natural texture)
-- SHOW CODE (go back and add in code for prev weeks)
-
 ![](FINAL_V5.gif)
+
+Thinking about this as a visualisation of the transition between physical and digital I need to work on the imagery i'm going to use to convey this idea. I want to use images of natural 'physical' objects in the foreground and then use imagery that feels futuristic and utopian in the background to try and communicate this idea. I also want to incorperate something that shows physical interaction as disruptive, creating some sort of visual disruption from keys being pressed on the keyboard.
+
+*What represents the phycical, what represents the digital?*
+
 
 [FINAL v5](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-10/FINAL_v5)  
 
