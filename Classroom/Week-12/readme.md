@@ -6,7 +6,7 @@ In class this week we all worked on filling out the submission form which had in
 While we were presenting our work Karen (incredibely quickly) worked on finishing the website which was live by the end of the class.
 
 ## MAJOR PROJECT
-This week I worked in finishing my sketch before our final class. I added in the background imagery and tweaked the movement of the objects to ensure the text scrolled at a good speed for reading. I added a particle class which created small floating dots to the background to further communicate the idea of it being a digital utopia, I feel that they give a sense of endless space and a dreamlike look and feel. I used a pixelated gradient for the background to further communicate the sense of a digital space in contrast to the natural objects in the foreground.
+This week I worked in finishing my sketch before our final class. I added in the background imagery and tweaked the movement of the objects to ensure the text scrolled at a good speed for reading. I added a particle class which created small floating dots to the background to further communicate the idea of it being a digital utopia, I feel that they give a sense of endless space and a dream like look and feel. I used a pixelated gradient for the background to further communicate the sense of a digital space in contrast to the natural objects in the foreground.
 
 ``` // 
 class Particle {
