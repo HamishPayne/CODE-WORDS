@@ -10,9 +10,9 @@ https://docs.google.com/document/d/10JPVNuT5CizS7II0iEubLLbWQZ6S0t9YxBRqc5ZhSfU/
 
 Andy spoke to us about what we were going to do with the website where we would all display our work at the end of the studio, he showed us some examples of similar sites that him and Karen had produced in the past
 
-http://rmitcd.grad.show/list.php \
-http://wotisabook.com/ \
-http://www.digbeyond.com/ARuready/index.php
+[RMIT grad show](http://rmitcd.grad.show/list.php) \
+[Wot is a book](http://wotisabook.com/) \
+[AR u ready](http://www.digbeyond.com/ARuready/index.php)
 
 ## MAJOR PROJECT
 Andy’s Feedback: 2:00:00 PM ––– amazing aesthetic. dreamy reading space... and perfect font. digital utopia that explores digital materiality. loss of physical body (use of mic). take care of scrolling... what about floating the rock so that it returns into view...   
