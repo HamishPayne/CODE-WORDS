@@ -1,3 +1,5 @@
+# This is an archive of all the people I have discovered this semester
+
 ## [Andy Simionato](http://www.andysimionato.com/)
 ## [Karen Ann Donnachie](http://www.karenanndonnachie.com/)
 ## [Stuart Bailey](https://en.wikipedia.org/wiki/Stuart_Bertolotti-Bailey)
