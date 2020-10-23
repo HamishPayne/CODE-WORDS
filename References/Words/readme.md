@@ -1,4 +1,4 @@
-# This is an archive of all the new words I have discovered this semester
+# This is an archive of the new words I have discovered this semester
 
 ## Contemporaneously
 Living or occurring during the same period of time; contemporary.
