@@ -1,6 +1,6 @@
 # Week 04
 
-## Processing
+## PROCESSING
 Prior to this class I had done a little bit of experimenting with type inside of Processing, I figured out how to bring typefaces in and also how to enter long form text using a TXT file (below).
 
 ![](long_form_text.jpg)
@@ -21,7 +21,7 @@ Karen also tought us how to make a [spirograph](https://en.wikipedia.org/wiki/Sp
 ![](words_spin.gif)       |  ![](spirograph.gif) 
 ![](words_spin_code.jpg)       | ![](spirograph_code.jpg)   
   
-## Club Penguin
+## CLUB PENGUIN
 This week my group continued to plan and experiment for our performance of House of Leaves.
 We decided that we would use a text to speach program to record the text from our chapter and play it over visual we would screen record inside the game. This took a little bit of planning as we would need each scene of game play to run for the same time as the recorded speach, so we decided we would record all of the speach first and then plan the game recordings around that. We also had to cut down a lot of the text to make it fit within 5 minutes.
 We split the chapter into the different scenes and assigned ourselves the characters from the book to recreate as penguins.
