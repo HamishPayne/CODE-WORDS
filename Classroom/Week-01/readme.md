@@ -21,9 +21,10 @@ Andy and Karen showed us the book [House of Leaves](https://en.wikipedia.org/wik
 
 We also looked at a few different examples of people using video games as storytelling or performance tools.
 
-**talk about quake friends**
+a. The Pookah, 2008
+b. Quake Friends, 2002
 
-[The Pookah, 2008](https://www.youtube.com/watch?v=Tn9wVdaMOlw)                 |  [Quake Friends, 2002](https://www.youtube.com/watch?v=dmyO1A5J8SU)
+[a. The Pookah, 2008](https://www.youtube.com/watch?v=Tn9wVdaMOlw)                 |  [b. Quake Friends, 2002](https://www.youtube.com/watch?v=dmyO1A5J8SU)
 :-------------------------:|:-------------------------:
 ![](the_pookah.gif)       |  ![](Quake-Friends) 
 
