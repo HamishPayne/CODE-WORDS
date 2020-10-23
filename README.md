@@ -15,7 +15,7 @@
 ## [Week 12](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-12/)
 
 # New Things
-## [Books](https://hamishpayne.github.io/CODE-WORDS/References/Quotes/)
+## [Books](https://hamishpayne.github.io/CODE-WORDS/References/Books/)
 ## [Words](https://hamishpayne.github.io/CODE-WORDS/References/Words/)
 ## [People](https://hamishpayne.github.io/CODE-WORDS/References/People/)
 ## [Quotes](https://hamishpayne.github.io/CODE-WORDS/References/Quotes/)
