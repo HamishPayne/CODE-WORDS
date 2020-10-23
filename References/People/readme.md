@@ -1,4 +1,4 @@
-# This is an archive of all the people I have discovered this semester
+# This is an archive of the people I have discovered this semester
 
 ## [Andy Simionato](http://www.andysimionato.com/)
 ## [Karen Ann Donnachie](http://www.karenanndonnachie.com/)
