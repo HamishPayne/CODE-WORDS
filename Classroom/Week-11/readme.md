@@ -17,7 +17,7 @@ http://www.digbeyond.com/ARuready/index.php
 ## MAJOR PROJECT
 Andy’s Feedback: 2:00:00 PM ––– amazing aesthetic. dreamy reading space... and perfect font. digital utopia that explores digital materiality. loss of physical body (use of mic). take care of scrolling... what about floating the rock so that it returns into view...   
 
-some questions i was asking myself this week     
+Some questions i'm asking myself this week     
 - *How can I make it smoother, whole numbers for the tint?*
 - *How can I limit the mouse scroll?*  
 - *Would it be possible to have a different font each time? Random out of 10.*  
@@ -25,9 +25,22 @@ some questions i was asking myself this week
 - *Do you think I’m leaving out too much from the text? Eugenics, body politics etc?*  
 - *How to make the words slowly scroll with mic input? Only moves really slow.*   
 - *How can I make the rocks slow/stop with mic input?*  
-- *I’m trying to think of a work around for using mouse scroll, it’s physical.*    
+- *I’m trying to think of a work around for using mouse scroll, it’s too physical.*    
 - *Wrote out my 200 word reflection ready for the final submission*
-SHOW PROGRESS.  
+
+Over the past week I worked on getting the text to scroll with the mic input. I felt using the mouse scroll was too much of a physical interaction, I wanted all interaction to be done through the mic. I also decided that having the alpha (opacity) of the text being effected by the mic input made it too difficult to read.
+
+Using the same code that I used to effect the alpha of the text i mapped it to effect the position on the Y axis. I will need to do some more testing to figure out what a good speed is for the text to scroll. I wills get some feedback from others to ensure it works well on different computers.
+
+``` // 
+  let vol = mic.getLevel()*40;
+  let h = map(vol*5, 0, 1, 0, 75);
+  
+  p = (fulltext.height*width/fulltext.width);
+  
+  image(fulltext, 0, k+windowHeight/20, width, p);
+  k = k - h/2000;
+``` 
 
 ## DAVID RUDNICK
 https://www.youtube.com/watch?v=-ejp4AvetSA&ab_channel=StrelkaInstitute%2F%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0
