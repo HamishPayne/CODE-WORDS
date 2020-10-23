@@ -21,3 +21,9 @@
 
 ### "You've jumped in a Ferrari without a drivers license"
 -Karen Ann Donnachie
+
+### "Design should become radically autonomous"
+-David Rudnick
+
+### "There were no clues, there were no lyrics, there was no imagery it was just a feeling"
+-David Rudnick
