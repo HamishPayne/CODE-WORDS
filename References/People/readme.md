@@ -19,7 +19,7 @@
 [Sol LeWitt](http://www.artnet.com/artists/sol-lewitt/)\
 [Siegfried Odermatt](https://a-g-i.org/user/siegfriedodermatt/#:~:text=Siegfried%20Odermatt%2C%20Switzerland%20(1974)&text=%2C%20Switzerland%20(1974)-,Odermatt%20calls%20himself%20a%20self%2Dtaught%20graphic%20designer%2C%20although%20he,a%20studio%20with%20Rosmarie%20Tissi.)\
 [Benoit Bodhuin](https://www.bb-bureau.fr/)\
-[Ben Fry](https://benfry.com/)\ 
+[Ben Fry](https://benfry.com/) \
 [Lauren Mcarthy](https://lauren-mccarthy.com/)\
 [Karel Martens](https://www.artsy.net/artist/karel-martens)\
 [Rosa Menkman](http://rosa-menkman.blogspot.com/)\
