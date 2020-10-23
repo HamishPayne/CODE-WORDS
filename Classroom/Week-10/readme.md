@@ -63,4 +63,4 @@ Thinking about this as a visualisation of the transition between physical and di
 
 [FINAL v5](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-10/FINAL_v5)  
 
-[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-09/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-11/)
+[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-09/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-11/).[HOME](https://hamishpayne.github.io/CODE-WORDS/)
