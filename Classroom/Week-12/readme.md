@@ -49,10 +49,8 @@ e = random(0,height);
 
 image(rock,b+h, e+h, width/5, rock.height*width/rock.width/5);
 ``` 
-
-
-Final website with our projects
-http://digbeyond.com/codeWords/list.php
+*You can view my final project [HERE](https://hamishpayne.github.io/CODE-WORDS/Processing/NEOTOPIA/)*\
+*You can view the website showcasing all of our final projects [HERE](http://digbeyond.com/codeWords/list.php)*
 
 ## REFLECTION
 
