@@ -61,4 +61,4 @@ He compared designers to chefs, chefs do research trips, experimentation with fo
 
 ![](Rudnick_lecture.gif)
 
-[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-10/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-12/)
+[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-10/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-12/).[HOME](https://hamishpayne.github.io/CODE-WORDS/)
