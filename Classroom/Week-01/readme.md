@@ -15,16 +15,11 @@ This was quite a strange experience for me, having a classroom run inside of a v
 ## MACHINIMA
 
 Next we were introduced to the first assignment, Re-readings. 
-Andy and Karen showed us the book [House of Leaves](https://en.wikipedia.org/wiki/House_of_Leaves) which the first assignment would be based around. 
-
-**talk about first impressions of HOL**
+Andy and Karen showed us the book [House of Leaves](https://en.wikipedia.org/wiki/House_of_Leaves) which the first assignment would be based around.
 
 We also looked at a few different examples of people using video games as storytelling or performance tools.
 
-a. The Pookah, 2008
-b. Quake Friends, 2002
-
-[a. The Pookah, 2008](https://www.youtube.com/watch?v=Tn9wVdaMOlw)                 |  [b. Quake Friends, 2002](https://www.youtube.com/watch?v=dmyO1A5J8SU)
+[The Pookah, 2008](https://www.youtube.com/watch?v=Tn9wVdaMOlw)                 |  [Quake Friends, 2002](https://www.youtube.com/watch?v=dmyO1A5J8SU)
 :-------------------------:|:-------------------------:
 ![](the_pookah.gif)       |  ![](Quake-Friends) 
 
