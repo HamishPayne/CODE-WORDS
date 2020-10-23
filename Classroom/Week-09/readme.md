@@ -31,4 +31,4 @@ I haven't put much thought into what typeface i'm going to use yet so I will nee
 
 ![](FINAL_V2.gif)
 
-[PREV](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-08).[NEXT](https://github.com/HamishPayne/CODE-WORDS/edit/master/Classroom/Week-10)
+[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-08/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-10/)
