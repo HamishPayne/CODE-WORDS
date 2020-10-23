@@ -1,3 +1,5 @@
+# This is an archive of some of the interesting quotes I have heard/read this semester 
+
 ### ’As if memory alone could lift the heart like the wind lifts a wing’
  ―Mark Z Danielewski, House of Leaves, page 155
  
