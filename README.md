@@ -1,6 +1,6 @@
 ![](CODEWORDS.jpg)
 
-# Studio
+# STUDIO
 ## [Week 01](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-01/)
 ## [Week 02](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-02/)
 ## [Week 03](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-03/)
@@ -14,7 +14,7 @@
 ## [Week 11](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-11/)
 ## [Week 12](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-12/)
 
-# New Things
+# NEW THINGS
 ## [Books](https://hamishpayne.github.io/CODE-WORDS/References/Books/)
 ## [Words](https://hamishpayne.github.io/CODE-WORDS/References/Words/)
 ## [People](https://hamishpayne.github.io/CODE-WORDS/References/People/)
