@@ -26,4 +26,4 @@ This week my group continued to plan and experiment for our performance of House
 We decided that we would use a text to speach program to record the text from our chapter and play it over visual we would screen record inside the game. This took a little bit of planning as we would need each scene of game play to run for the same time as the recorded speach, so we decided we would record all of the speach first and then plan the game recordings around that. We also had to cut down a lot of the text to make it fit within 5 minutes.
 We split the chapter into the different scenes and assigned ourselves the characters from the book to recreate as penguins.
 
-[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-03/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-05/)
+[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-03/).[NEXT](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-05/).[HOME](https://hamishpayne.github.io/CODE-WORDS/)
