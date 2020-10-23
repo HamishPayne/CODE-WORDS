@@ -75,4 +75,4 @@ This studio has been awesome and a really great way to finish my studies. I've r
 
 Massive thanks to Andy and Karen for helping us all this semester, it's been a really great experience and one I will never forget!
 
-[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-11/)
+[PREV](https://hamishpayne.github.io/CODE-WORDS/Classroom/Week-11/).[HOME](https://hamishpayne.github.io/CODE-WORDS/)
