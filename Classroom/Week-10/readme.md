@@ -52,7 +52,7 @@ Over the week I continued to develop the code and worked on adding in the 3D tex
   tint(255, h);
   image(fulltext,0,pos,width/2, fulltext.height*width/fulltext.width/2);
 ```
-I made the different layers of images scroll at different speeds by mapping them to a mouseWheel event and then dividing the number to slow down the movement.
+I made the different layers of images scroll at different speeds by mapping them to a mouseWheel event and then dividing the number to slow down the movement. The maths is getting a bit intense with these so I may need to clean this up a bit for the final sketch, but it seems to be working well.
 
 ``` // 
   image(rock,windowWidth/6+h*5,pos*3+windowWidth/6,1557/4,1139/4);
