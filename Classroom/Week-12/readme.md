@@ -6,7 +6,41 @@ In class this week we all worked on filling out the submission form which had in
 While we were presenting our work Karen (incredibely quickly) worked on finishing the website which was live by the end of the class.
 
 ## MAJOR PROJECT
-This week I worked in finalising my sketch before class. I added in the background imagery and tweaked the movement of the objects to ensure the text scrolled at a good speed. I added some floating particles to the background to further communicate this idea of a digital utopia, I feel that they give a sense of endless space and a dreamlike feel. I used a pixelated gradient for the background to give a sense of a digital space in contrast to the natural objects in the foreground. I also reduced the size of the text and added a glow to it.
+This week I worked in finalising my sketch before our final class. I added in the background imagery and tweaked the movement of the objects to ensure the text scrolled at a good speed for reading. I added a particle class which created small floating dots to the background to further communicate the idea of it being a digital utopia, I feel that they give a sense of endless space and a dreamlike look and feel. I used a pixelated gradient for the background to further communicate the sense of a digital space in contrast to the natural objects in the foreground.
+
+``` // 
+class Particle {
+  constructor(){
+    this.x = random(0,width);
+    this.y = random(0,height);
+    this.r = random(1,3);
+    this.xSpeed = random(-1,1);
+    this.ySpeed = random(-1,1);
+  }
+  createParticle() {
+    noStroke();
+    fill(255,255,255,100);
+    circle(this.x,this.y,this.r);
+  }
+  moveParticle() {
+    if(this.x < 0 || this.x > width)
+      this.xSpeed*=-1;
+    if(this.y < 0 || this.y > height)
+      this.ySpeed*=-1;
+    this.x+=this.xSpeed;
+    this.y+=this.ySpeed;
+  }
+
+  joinParticles(particles) {
+    particles.forEach(element =>{
+      let dis = dist(this.x,this.y,element.x,element.y);
+      if(dis<85) {
+
+      }
+    });
+  }
+}
+``` 
 
 I also added some code which drew the rocks and different positions on the screen each time the sketch was opened by assigning a random value to a letter which I used for the X and Y positioning of the rock images.
 ``` // 
